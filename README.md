@@ -95,5 +95,37 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 </details>
 
+## Community Apps
 
+### Glyph-Powered
+- [blockit by Mirko_ddd](https://play.google.com/store/apps/details?id=com.hypenet.focused) - A tech detox phone blocking app with Glyph integration.
+- [Glyph Compass by JayKayCooperations](https://play.google.com/store/apps/details?id=com.JayKayCooperations.glyph_compass) - Use your Glyph interface as a compass.
+- [Glyph Notifications by GlyphLab](https://play.google.com/store/apps/details?id=com.tldc.essentials) - Advanced customisation for Glyph notifications.
+- [Glyph Unlock Pulse by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphunlockpulse) - Enhance your device unlock experience with animated glyphs.
+- [Glyphify v3 by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications including an automatic music to Glyph composer. Supports Glyph Matrix on Phone (3).
+- [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
+- [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
 
+### Notes & Productivity
+- [Dothing by FirstYogi](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) - A minimalist tasks app with cloud backup.
+- [nNotes by Bhavuk Verma](https://play.google.com/store/apps/details?id=com.bhavukverma.nNotes) - An open source Nothing OS style notes app.
+- [No Things To Do List by Martin Diermayr](https://play.google.com/store/apps/details?id=com.todo.nothingwidgets) - A Nothing inspired task/to-do app and widget with customisable reminders.
+- [Notes by monospace](https://play.google.com/store/apps/details?id=com.monospace.notes) - A Nothing styled notes app with built-in security.
+- [Noting by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.notingnotes) - A Nothing styled notes and tasks app with cloud backup.
+
+### Utilities & Tools
+- [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
+- [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
+- [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
+- [n-recipe by a3chron](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - An offline recipebook app, with theming inspired by Nothing.
+- [NoCalendar by NoAppsStudio](https://play.google.com/store/apps/details?id=com.calendar.nocalendar) - A calendar app inspired by Nothing design, with Google Calendar sync.
+- [Nothing Clock by Sasha Chverenko](https://github.com/SushiiReboot/Nothing-Clock) - A Nothing style world clock, timer and stopwatch app.
+- [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic.
+
+### Miscellaneous
+- [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
+- [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
+- [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
+- [Nothing News by Mirko_ddd](https://play.google.com/store/apps/details?id=com.nothing.news) - All of the latest news from the Nothing community.
+- [NothingLand by TheGlitchh](https://github.com/TheGlitchh/NothingLand) - An iOS style Dynamic Island for Nothing OS.
+- [Widgets Pro by Preethamkmr3](https://play.google.com/store/apps/details?id=com.tpk.widgetspro) - Additional widgets inspired by Nothing design language.
