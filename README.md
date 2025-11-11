@@ -280,7 +280,7 @@ Official support links related to after-sales, tech support, business and career
 ## Credits & Sources
 
 - [r/NothingTech wiki](https://www.reddit.com/r/NothingTech/wiki/)
-- [Linkfly Nothing Resource Index by spike0en](https://linkfly.to/nothing_archive)
+- [Linkfly Nothing Resource Index by spike0en](https://linkfly.to/nothingarchive)
 
 ---
 
