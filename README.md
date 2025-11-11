@@ -133,7 +133,7 @@ Community-made and inspired apps following the Nothing design.
 - [Glyph Unlock Pulse by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphunlockpulse) - Enhance your device unlock experience with animated glyphs.
 - [Glyphify v3 by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications including an automatic music to Glyph composer. Supports Glyph Matrix on Phone (3).
 - [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
-- [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
+- [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
 
 #### Notes & Productivity
 - [Dothing by FirstYogi](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) - A minimalist tasks app with cloud backup.
