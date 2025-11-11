@@ -279,7 +279,7 @@ Official support links related to after-sales, tech support, business and career
 
 ## Credits & Sources
 
-- [r/NothingTech wiki](https://www.reddit.com/r/NothingTech/wiki/)
+- [r/NothingTech wiki](https://www.reddit.com/r/NothingTech/wiki/) for [devices](https://github.com/spike0en/awesome_nothing/commit/e6b48f0c89a1cc45cad3d1eb76d05941dcf79f1d) and [community apps section](https://github.com/spike0en/awesome_nothing/commit/9c40cf08b1b6d0159459c1653c9419635305a557) for initial layout of the index. 
 - [Linkfly Nothing Resource Index by spike0en](https://linkfly.to/nothingarchive)
 
 ---
