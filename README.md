@@ -6,6 +6,18 @@
 
 A curated list of everything related to [Nothing & CMF by Nothing](https://nothing.tech) ecosystem.
 
+## Socials 
+
+### Official 
+
+[![Community Website](https://img.shields.io/badge/Community--Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nothing) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/nothinguk](https://x.com/nothing)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)  
+
+### Community Maintained (Unofficial)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) 
+
 ## Devices
 
 <details>
@@ -98,16 +110,6 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 | Coffee (spaceboy) | -        | Unreleased       |
 
 </details>
-
-## Socials 
-
-### Official 
-
-[![Community Website](https://img.shields.io/badge/Community--Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/nothinguk](https://x.com/nothing)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nothing) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)
-
-### Community Maintained (Unofficial)
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive)  
 
 ## Community Related
 
