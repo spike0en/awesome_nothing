@@ -197,3 +197,13 @@ Other interesting projects maintained by the community.
 - [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets.  
 - [Nothing News by lsh3](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) - A Chrome extension to quickly browse the latest nothing.community news.  
 - [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
+
+## Support the Project
+
+If this index has been helpful, please consider **[starring the repository](https://github.com/spike0en/awesome_nothing/stargazers)**. Your support helps keep the project discoverable and active!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
+</picture>
