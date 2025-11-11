@@ -111,17 +111,17 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ### Official Nothing Apps
 The official suite of apps developed by Nothing Technology Limited.
+- [CMF Watch](https://play.google.com/store/apps/details?id=com.nothing.cmf.watch)  
+- [Community Widgets](https://play.google.com/store/apps/details?id=com.nothing.communitywidgets)  
+- [Essential Space](https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace)  
+- [Gallery](https://play.google.com/store/apps/details?id=com.nothing.gallery)  
+- [Glyph Composer](https://play.google.com/store/apps/details?id=com.nothing.glyph.composer)  
 - [Icon Pack](https://play.google.com/store/apps/details?id=com.nothing.icon)  
 - [Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)  
-- [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
-- [Glyph Composer](https://play.google.com/store/apps/details?id=com.nothing.glyph.composer)  
 - [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter)  
-- [Gallery](https://play.google.com/store/apps/details?id=com.nothing.gallery)  
-- [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone)  
-- [Community Widgets](https://play.google.com/store/apps/details?id=com.nothing.communitywidgets)  
-- [CMF Watch](https://play.google.com/store/apps/details?id=com.nothing.cmf.watch)  
 - [Wallpaper](https://play.google.com/store/apps/details?id=com.nothing.wallpaper)  
-- [Essential Space](https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace)  
+- [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
+- [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone)   
 
 ### Community Apps
 Community-made and inspired apps following the Nothing design.
