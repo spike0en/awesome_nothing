@@ -277,6 +277,13 @@ Official support links related to after-sales, tech support, business and career
 
 ---
 
+## Credits & Sources
+
+- [r/NothingTech wiki](https://www.reddit.com/r/NothingTech/wiki/)
+- [Linkfly Nothing Resource Index by spike0en](https://linkfly.to/nothing_archive)
+
+---
+
 ## Support the Project
 
 If this index has been helpful, please consider **[starring the repository](https://github.com/spike0en/awesome_nothing/stargazers)**. Your support helps keep the project discoverable and active!
