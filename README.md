@@ -158,3 +158,42 @@ Community-made and inspired apps following the Nothing design.
 - [Nothing News by Mirko_ddd](https://play.google.com/store/apps/details?id=com.nothing.news) - All of the latest news from the Nothing community.
 - [NothingLand by TheGlitchh](https://github.com/TheGlitchh/NothingLand) - An iOS style Dynamic Island for Nothing OS.
 - [Widgets Pro by Preethamkmr3](https://play.google.com/store/apps/details?id=com.tpk.widgetspro) - Additional widgets inspired by Nothing design language.
+
+## Community Projects
+
+### Glyph Related
+
+#### Glyph tools
+A collection of Glyph related projects created by the Nothing community
+
+- [Custom Nothing Glyph Tools by SebiAi](https://github.com/SebiAi/custom-nothing-glyph-tools) - Create custom Glyph tones using Audacity with this toolset.  
+- [Glyphify v1 by Fr4nKB](https://github.com/Fr4nKB/Glyphify) - Advanced Glyph control app. v3 is now available on the Play Store.  
+- [Glyphtones project by Firu115](https://github.com/Firu115/nothing_glyphtones) - The open-source repository powering the Glyphtones website. 
+- [Glyphtones website by Firu115](https://glyphtones.is-a.dev/) - A web-based collection of community-made Glyph tones with device filters and a built-in visualizer.  
+- [GlyphVisualizer by SebiAi](https://github.com/SebiAi/GlyphVisualizer) - Desktop app to visualize .ogg Glyph compositions. Supports the Phone (3) Glyph Matrix.  
+- [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix.  
+
+#### Glyph Matrix Toys
+A collection of Glyph Matrix Toys by the community. Additionally check out [Nothing Playground](https://playground.nothing.tech/) for more interesting stuff!
+
+- [Counter by Daniel](https://nothing.community/d/36837-introducing-counter-a-glyph-toy) - A simple and intuitive counter ranging from 0 to 9999.  
+- [Dot Hub by nostream](https://play.google.com/store/apps/details?id=com.gesekus.dothub) - A multifunctional app featuring a music visualizer, compass, breathing light, coin flip, dice (d3–d9), and counter.  
+- [Glyph Beat by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphbeat) - A media visualizer offering a variety of animated Glyph themes.  
+- [Glyph Bike by Ofishial Digital](https://play.google.com/store/apps/details?id=com.ofishialdigital.glyphbike) - A fast-paced scrolling game where you navigate a motorbike through jumps and obstacles.  
+- [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
+- [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
+- [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game and quick-dial tool for favorite contacts, right on the Glyph Matrix.  
+- [Leveller by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) - A straightforward gyroscopic level tool for the Glyph Matrix.  
+- [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
+- [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
+
+### Miscellaneous
+Other interesting projects maintained by the community.
+
+- [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.  
+- [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
+- [Nothing Archive by spike0en](https://github.com/spike0en/nothing_archive) - Indexes, generates, and preserves official OTA links and unmodified images for Nothing OS devices. Useful for manual updates, restoring stock firmware, or custom development. 
+- [Nothing Flasher by spike0en](https://github.com/spike0en/nothing_flasher) - A set of fastboot scripts for flashing Nothing OS firmware for respective models.
+- [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets.  
+- [Nothing News by lsh3](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) - A Chrome extension to quickly browse the latest nothing.community news.  
+- [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
