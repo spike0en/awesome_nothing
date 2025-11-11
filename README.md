@@ -10,13 +10,17 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ### Official 
 
-[![Community Website](https://img.shields.io/badge/Community--Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) 
+[![Community Website](https://img.shields.io/badge/Nothing%20Community%20Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nothing) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/nothinguk](https://x.com/nothing)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)  
 
-### Community Maintained (Unofficial)
+### Unofficial (Community Maintained)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive) [![XDA](https://img.shields.io/badge/XDA%20Forums-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/) 
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) 
+
+---
 
 ## Devices
 
@@ -111,6 +115,8 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 </details>
 
+---
+
 ## Community Related
 
 ### Community Apps
@@ -153,9 +159,11 @@ Community-made and inspired apps following the Nothing design.
 - [NothingLand by TheGlitchh](https://github.com/TheGlitchh/NothingLand) - An iOS style Dynamic Island for Nothing OS.
 - [Widgets Pro by Preethamkmr3](https://play.google.com/store/apps/details?id=com.tpk.widgetspro) - Additional widgets inspired by Nothing design language.
 
-## Community Projects
+---
 
-### Glyph Related
+### Community Projects
+
+#### Glyph Related
 
 ##### Glyph tools
 A collection of Glyph related projects created by the Nothing community
@@ -187,7 +195,7 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 - [Pomodoro Timer by pauwma](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
 - [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
 
-### Miscellaneous
+#### Miscellaneous
 Other interesting projects maintained by the community.
 
 - [Dotify Client by raj.d.patel](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
@@ -277,6 +285,28 @@ Official support links related to after-sales, tech support, business and career
 - [Product Guide](http://nothing.tech/pages/support-product-help)
 - [Service Centre](http://nothing.tech/pages/service-center)
 - [Troubleshooting](https://support.nothing.tech/hc/en-us/categories/7455115681041-Troubleshooting)
+
+---
+
+## Photography
+
+### Google Camera Ports (GCAM)
+
+- [AGC by Bigkaka](https://www.celsoazevedo.com/files/android/google-camera/dev-BigKaka/)
+- [LMC by hasli](https://www.celsoazevedo.com/files/android/google-camera/dev-hasli/)
+- [SGCam by Shamim](https://www.celsoazevedo.com/files/android/google-camera/dev-shamim/)
+- [BSG & MGC](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
+
+### GCAM Configs
+The config (`xml`) files have been archived for access in their respective directories, named after the corresponding device names. Creator names (if known) are included in the filenames for proper attribution.
+
+- [Download](https://archive.org/download/nothing-archive/spike0en/photography/)
+
+### Miscellaneous
+
+- [Stock Cam Presets Notion Doc by flo_rahil](http://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
+- [Stock Cam Presets - Nothing Discord Thread](https://discord.com/channels/930878214237200394/1351115520245760021)
+- [Shot with Noting by Ali](https://shotwithnothing.crd.co/) - A dedicated space for the nothing community to share their best captures, showcase creativity, and celebrate photography.
 
 ---
 
