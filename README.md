@@ -221,8 +221,9 @@ The official suite of apps developed by Nothing Technology Limited.
 - [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone) 
 
 ### Wallpapers
+The walls have been archived for access under respective directories named after the corresponding device codenames.
 
--  [GD Link](https://drive.google.com/drive/folders/1V5ZpOkroaNFDVB8sBs31Dmv3klCiqWio)
+-  [Download](https://archive.org/download/nothing-archive/spike0en/walls/)
 
 ### Fonts
 
