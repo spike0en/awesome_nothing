@@ -149,7 +149,6 @@ Community-made and inspired apps following the Nothing design.
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
 - [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
 - [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
-- [NothingHub by StickyPRP](https://nothing-news.de/hub/) - Your central hub for everything related to nothing, be it apps, reviews, and news.
 - [Nothing News by Mirko_ddd](https://play.google.com/store/apps/details?id=com.nothing.news) - All of the latest news from the Nothing community.
 - [NothingLand by TheGlitchh](https://github.com/TheGlitchh/NothingLand) - An iOS style Dynamic Island for Nothing OS.
 - [Widgets Pro by Preethamkmr3](https://play.google.com/store/apps/details?id=com.tpk.widgetspro) - Additional widgets inspired by Nothing design language.
@@ -200,6 +199,7 @@ Other interesting projects maintained by the community.
 - [Nothing Archive by spike0en](https://github.com/spike0en/nothing_archive) - Indexes, generates, and preserves official OTA links and unmodified images for Nothing OS devices. Useful for manual updates, restoring stock firmware, or custom development. 
 - [Nothing Flasher by spike0en](https://github.com/spike0en/nothing_flasher) - A set of fastboot scripts for flashing Nothing OS firmware for respective models.
 - [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets. 
+- [Nothing News Hub by StickyPRP](https://nothing-news.de/hub/) - Your central hub for everything related to nothing, be it apps, reviews, and news.
 - [Nothing News by lsh3](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) - A Chrome extension to quickly browse the latest nothing.community news.  
 - [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
 - [Spin The Bottle Simulator by MadGlacierRunner](http://dotmatrix-beerbottle.vercel.app/) - A simulation for spin the bottle toy.
