@@ -47,7 +47,7 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 <br>
 
 | Device name      | Model   | Codename       | Release date   |
-|---------------- -|---------|----------------|----------------|
+|------------------|---------|----------------|----------------|
 | Ear (1)          | B181    | Aipom          | July 2021      |
 | Ear (stick)      | B157    | Bellosom       | November 2022  |
 | Ear (2)          | B155    | Azumarill      | March 2023     |
