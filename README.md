@@ -256,13 +256,13 @@ The walls have been archived for access under respective directories named after
 
 ### Kernel Sources
 
-- [CMF Phone (1)](https://github.com/NothingOSS/android_kernel_6.1_nothing_mt6878)
-- [CMF Phone (2) Pro](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaga/v)
 - [Phone (1)](https://github.com/NothingOSS/android_kernel_msm-5.4_nothing_sm7325)
 - [Phone (2)](https://github.com/NothingOSS/android_kernel_msm-5.10_nothing_sm8475/tree/sm8475/v/mr)
 - [Phone (2a) Series](https://github.com/NothingOSS/android_kernel_5.15_nothing_mt6886)
+- [Phone (3a) & (3a) Pro](https://github.com/NothingOSS/android_kernel_msm-6.1_nothing_sm7635)
 - [Phone (3)](https://github.com/NothingOSS/android_kernel_msm-6.6_nothing_sm8735)
-- [Phone (3a) Series](https://github.com/NothingOSS/android_kernel_msm-6.1_nothing_sm7635)
+- [CMF Phone (1)](https://github.com/NothingOSS/android_kernel_6.1_nothing_mt6878)
+- [CMF Phone (2) Pro](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaga/v)
 
 ### Glyph Developer Kit SDK & API(s)
 Software toolkit for devs to create custom create custom interactive experiences for Glyph LED / Matrix.
