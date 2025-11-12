@@ -127,8 +127,12 @@ Community-made and inspired apps following the Nothing design.
 - [Glyph Compass by JayKayCooperations](https://play.google.com/store/apps/details?id=com.JayKayCooperations.glyph_compass) - Use your Glyph interface as a compass.
 - [Glyph Notifications by GlyphLab](https://play.google.com/store/apps/details?id=com.tldc.essentials) - Advanced customisation for Glyph notifications.
 - [Glyph Unlock Pulse by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphunlockpulse) - Enhance your device unlock experience with animated glyphs.
+- [Glyph Initiator by lowqualitysoarin](https://github.com/lowqualitysoarin/Glyph-Initiator/releases) - An app to control the glyph interface of Nothing phones by sending intents.
 - [Glyphify v3 by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications including an automatic music to Glyph composer. Supports Glyph Matrix on Phone (3).
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
+- [GlyphSharge by bleelblep](https://github.com/Leekawaii666/GlyphSharge) - A powerful glyph interface management app for Nothing phones that enhances the Glyph interface capabilities with advanced features and customization options.
+- [GlyphZen by bleelblep](https://github.com/bleelblep/Glyph-Zen/releases/tag/v1.1) - A calming and minimalist breathing app for for Nothing phones.
+- [Nothing Glyph Gyroscope by gawdam](https://github.com/gawdam/nothingGyro) - A simple and intuitive bubble level app for the Nothing phone (1) and (2), using the built-in accelerometer and gyroscope sensors to detect tilt angles.
 - [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
 
 #### Notes & Productivity
@@ -136,18 +140,27 @@ Community-made and inspired apps following the Nothing design.
 - [Dothing by FirstYogi](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) - A minimalist tasks app with cloud backup.
 - [nNotes by Bhavuk Verma](https://play.google.com/store/apps/details?id=com.bhavukverma.nNotes) - An open source Nothing OS style notes app.
 - [No Things To Do List by Martin Diermayr](https://play.google.com/store/apps/details?id=com.todo.nothingwidgets) - A Nothing inspired task/to-do app and widget with customisable reminders.
+- [NDot Notes by AzhamProdLive](https://github.com/AzhamProdLive/Notes_App_Nothing) - A simple notes app with NDot font theme.
 - [Notes by monospace](https://play.google.com/store/apps/details?id=com.monospace.notes) - A Nothing styled notes app with built-in security.
+- [Notes by ThriveEngineer](https://github.com/ThriveEngineer/nothing.notes) - A Nothing themed notes app for Android.
 - [Noting by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.notingnotes) - A Nothing styled notes and tasks app with cloud backup.
+- [Simple Launcher by DinoyRajk](https://play.google.com/store/apps/details?id=com.dino.simple) - A minimalist launcher for Android designed to keep you focused, productive, and distraction-free.
+- [Spend Notes by Coder monk labs](https://play.google.com/store/apps/details?id=com.cmlabs.spendflow.spendflow) - A minimalist app to track your expenses effortlessly.
 
 #### Utilities & Tools
 
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
 - [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
+- [N Keyboard by arunk14](https://github.com/arunk140/nth-kbd) - An Android keyboard app themed heavily for Nothing devices.
 - [n-recipe by a3chron](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - An offline recipebook app, with theming inspired by Nothing.
 - [NoCalendar by NoAppsStudio](https://play.google.com/store/apps/details?id=com.calendar.nocalendar) - A calendar app inspired by Nothing design, with Google Calendar sync.
 - [Nothing Clock by Sasha Chverenko](https://github.com/SushiiReboot/Nothing-Clock) - A Nothing style world clock, timer and stopwatch app.
+- [Nothing Weather by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.nothing_weather) - A Nothing style weather app to know how much warmer or colder it is than yesterday.
+- [NothingK by cuadratico](https://github.com/cuadratico/NothingK) - A digital vault for storing passwords.
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic.
+- [OpenCalc by drrnb](https://github.com/drrnb/OpenCalc/releases/tag/v3.0.0-beta4-nothing) - A simple nothing themed calculator app
+- [SaferDev by abhixv](https://play.google.com/store/apps/details?id=com.abhixv.saferdev) - The ultimate tool for gaining complete insights into your Nothing device.
 - [Voidcaller by VoidwareLabs](https://play.google.com/store/apps/details?id=com.voidware.voidcaller&hl=en_IN) - A minimalist dialer that combines simplicity and speed with a stylish, monochrome design inspired by Nothing OS.
 
 #### Miscellaneous
@@ -166,14 +179,16 @@ Community-made and inspired apps following the Nothing design.
 #### Glyph Related
 
 ##### Glyph tools
-A collection of Glyph related projects created by the Nothing community
+A collection of Glyph related projects created by the Nothing community.
 
+- [Cassette by Chipik0](https://github.com/Chipik0/Cassette) - Create stunning glyph compositions with this toolset.
 - [Custom Nothing Glyph Tools by SebiAi](https://github.com/SebiAi/custom-nothing-glyph-tools) - Create custom Glyph tones using Audacity with this toolset.  
 - [Glyphify v1 by Fr4nKB](https://github.com/Fr4nKB/Glyphify) - Advanced Glyph control app. v3 is now available on the Play Store.  
 - [Glyphtones project by Firu11](https://github.com/firu11/nothing-glyphtones) - The open-source repository powering the Glyphtones website. 
 - [Glyphtones website by Firu11](https://glyphtones.is-a.dev/) - A web-based collection of community-made Glyph tones with device filters and a built-in visualizer.  
 - [GlyphVisualizer by SebiAi](https://github.com/SebiAi/GlyphVisualizer) - Desktop app to visualize .ogg Glyph compositions. Supports the Phone (3) Glyph Matrix.  
-- [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix.  
+- [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix. 
+- [pyglyph by Snakehater](https://github.com/Snakehater/pyglyph) - A python script for audio visualizing and Nothing Glyph Composer OGG generation.
 
 ##### Glyph Matrix Toys
 A collection of Glyph Matrix Toys by the community. Additionally check out [Nothing Playground](https://playground.nothing.tech/) for more interesting stuff!
@@ -199,10 +214,12 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 Other interesting projects maintained by the community.
 
 - [Dotify Client by raj.d.patel](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
-- [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.  
+- [Dotmatrixify by szelszabi](https://github.com/szelszabi/dotmatrixify) - Transforms pixelart to dot matrix..
+- [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.
+- [GlyphMatrixEditor by pauwma](https://github.com/pauwma/GlyphMatrixEditor) - A web-based pixel art editor specifically designed for creating Nothing Phone (3) Glyph Matrix animations.
 - [Macros by RedSkullxHydra](https://nothing.community/d/14869-useful-macros-for-nothing-phones) - Useful Macros for Nothing Phones compatible with Macrodroid.
 - [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
-- [nKWGT by avnishkt2783]() - Yet another collection of Nothing-style widgets.
+- [nKWGT by avnishkt2783](https://github.com/avnishkt2783/nKWGT) - Yet another collection of Nothing-style widgets.
 - [Notes by rohankishore](https://github.com/rohankishore/Notes-1) - A NothingOS themed notepad for Windows
 - [Nothing Archive by spike0en](https://github.com/spike0en/nothing_archive) - Indexes, generates, and preserves official OTA links and unmodified images for Nothing OS devices. Useful for manual updates, restoring stock firmware, or custom development. 
 - [Nothing Flasher by spike0en](https://github.com/spike0en/nothing_flasher) - A set of fastboot scripts for flashing Nothing OS firmware for respective models.
@@ -270,6 +287,7 @@ Software toolkit for devs to create custom create custom interactive experiences
 - [Glyph-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit)
 - [GlyphMatrix - Sample Project](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Example-Project)
 - [GlyphMatrix-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit)
+- [BetterGDK by Fr4nKB (Unofficial)](https://github.com/Fr4nKB/BetterGDK) - A modified version of Glyph Developer Kit by Nothing-Developer-Programme aiming to [fix bugs and improve code quality](https://github.com/Fr4nKB/BetterGDK).
 - [Nothing Glyph Interface for Flutter (Unofficial)](https://pub.dev/packages/nothing_glyph_interface)
 - [NothingOS.Unity (Unofficial)](http://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
 
@@ -304,8 +322,8 @@ The config (`xml`) files have been archived for access in their respective direc
 
 ### Miscellaneous
 
+- [Stock Cam Presets Discord Thread](https://discord.com/channels/930878214237200394/1351115520245760021)
 - [Stock Cam Presets Notion Doc by flo_rahil](http://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
-- [Stock Cam Presets - Nothing Discord Thread](https://discord.com/channels/930878214237200394/1351115520245760021)
 - [Shot With Nothing by Ali](https://shotwithnothing.crd.co/) - A dedicated space for the nothing community to share their best captures, showcase creativity, and celebrate photography.
 
 ---
