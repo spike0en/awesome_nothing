@@ -10,7 +10,7 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ### Official 
 
-[![Community Website](https://img.shields.io/badge/Nothing%20Community%20Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) 
+[![Community Website](https://img.shields.io/badge/Community%20Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nothing) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/nothinguk](https://x.com/nothing)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)  
 
