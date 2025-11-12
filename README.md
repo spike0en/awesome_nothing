@@ -37,6 +37,7 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 | Phone (2a) Plus    | A142P   | Mega Aerodactyl / PacmanPro | August 2024 |
 | Phone (3a) / (3a) Pro | A059 / A059P | Arcanine / Asteroids | March 2025 |
 | Phone (3)          | A024    | Arbok / Metroid       | July 2025    |
+| Phone (3a) Lite    | A001T   | Bulbasaur T / Galaxian | October 2025 | 
 
 </details>
 
