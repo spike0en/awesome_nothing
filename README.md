@@ -211,7 +211,7 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 - [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
 - [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
 - [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game and quick-dial tool for favorite contacts, right on the Glyph Matrix. 
-- [HA-Glyph by pauwma](https://github.com/PzmuV1517/HA-glyph) - Toggle any home assistant entity or helper
+- [HA-Glyph by pzmuv1517](https://github.com/PzmuV1517/HA-glyph) - Toggle any home assistant entity or helper
 - [Leveller by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) - A straightforward gyroscopic level tool for the Glyph Matrix.  
 - [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
 - [Pomodoro Timer by pauwma](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
