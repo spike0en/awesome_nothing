@@ -12,15 +12,19 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ### Official 
 
-[![Community Website](https://img.shields.io/badge/Community%20Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) 
+[![Community Website](https://img.shields.io/badge/NC-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) 
+[![GitHub](https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NothingOSS)
+[![Discord](https://img.shields.io/badge/-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech)
+[![Threads](https://img.shields.io/badge/-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@nothing)
+[![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nothing)
+[![X](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nothing)
+[![YouTube](https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)
+[![TikTok](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@nothing?lang=en)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nothing) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/nothinguk](https://x.com/nothing)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)  
 
 ### Unofficial (Community Maintained)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive) [![XDA](https://img.shields.io/badge/XDA%20Forums-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/) 
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) 
+[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive) [![XDA](https://img.shields.io/badge/-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/) [![Reddit](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) 
 
 ---
 
