@@ -217,6 +217,7 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 - [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
 - [Pomodoro Timer by pzmuV1517](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
 - [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
+- [Timepiece by Arun Khanchandani](https://play.google.com/store/apps/details?id=com.arunk140.timepiece) - Transform your Glyph Matrix into a smart, functional, and stylish information hub with an ultimate Always-On clock utility.
 
 #### Miscellaneous
 Other interesting projects maintained by the community.
