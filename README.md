@@ -136,7 +136,7 @@ Community-made and inspired apps following the Nothing design.
 - [Glyph Notifications by GlyphLab](https://play.google.com/store/apps/details?id=com.tldc.essentials) - Advanced customisation for Glyph notifications.
 - [Glyph Unlock Pulse by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphunlockpulse) - Enhance your device unlock experience with animated glyphs.
 - [Glyph Initiator by lowqualitysoarin](https://github.com/lowqualitysoarin/Glyph-Initiator/releases) - An app to control the glyph interface of Nothing phones by sending intents.
-- [Glyphify v3 by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications including an automatic music to Glyph composer. Supports Glyph Matrix on Phone (3).
+- [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications, charging indicators, mini-games and Glyph compositions. Supports Glyph Matrix on Phone (3).
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
 - [GlyphSharge by bleelblep](https://github.com/Leekawaii666/GlyphSharge) - A powerful glyph interface management app for Nothing phones that enhances the Glyph interface capabilities with advanced features and customization options.
 - [GlyphZen by bleelblep](https://github.com/bleelblep/Glyph-Zen/releases/tag/v1.1) - A calming and minimalist breathing app for for Nothing phones.
@@ -203,6 +203,7 @@ A collection of Glyph related projects created by the Nothing community.
 - [Glyphtones project by Firu11](https://github.com/firu11/nothing-glyphtones) - The open-source repository powering the Glyphtones website. 
 - [Glyphtones website by Firu11](https://glyphtones.is-a.dev/) - A web-based collection of community-made Glyph tones with device filters and a built-in visualizer.  
 - [GlyphVisualizer by SebiAi](https://github.com/SebiAi/GlyphVisualizer) - Desktop app to visualize .ogg Glyph compositions. Supports the Phone (3) Glyph Matrix.  
+- [Haptificator by Fr4nKB](https://github.com/Fr4nKB/Haptificator) - Simple Python script to add haptics to your Phone (1) Glyph composition.
 - [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix. 
 - [pyglyph by Snakehater](https://github.com/Snakehater/pyglyph) - A python script for audio visualizing and Nothing Glyph Composer OGG generation.
 
@@ -222,7 +223,7 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 - [Glyph Matrix Simulator by pzmuV1517](http://glyph.andreibanu.com/) - A website to test and develop Glyph Matrix code.
 - [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
 - [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
-- [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game and quick-dial tool for favorite contacts, right on the Glyph Matrix. 
+- [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game, a quick dial tool for favorite contacts, and a Tamagotchi inspired companion all built into the Glyph Matrix.
 - [HA-Glyph by pzmuv1517](https://github.com/PzmuV1517/HA-glyph) - Toggle any home assistant entity or helper
 - [Leveller by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) - A straightforward gyroscopic level tool for the Glyph Matrix.  
 - [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
