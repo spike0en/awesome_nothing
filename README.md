@@ -400,7 +400,7 @@ The config (`xml`) files have been archived for access in their respective direc
 #### General
 Tips, tricks, and general guides for everyone!
 
-- [Manual OTA Updates Sideloading by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#i-ota-sideloading-)  
+- [Manual OTA Updates Sideloading by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#i-ota-sideloading-) - Skip step I.(B) in this guide if your device is not rooted or has a locked bootloader, indicating that all stock partitions remain unmodified. For locked bootloader devices, you can use the dialer method easily. However, for open beta updates, opt for the `Beta Updater Hub` app provided seperately from the brand, as the dialer code will not work.
 - [Rebooting to Safe Mode](https://www.hardreset.info/devices/nothing/nothing-phone-2/safe-mode/)  
 - [Unlock Hidden Feature of Phone (2a) Special Edition by RapidZapper](https://nothing.community/d/11058-hidden-feature-of-phone-2a-special-edition)  
 - Remapping Essential Key Guide by: [acruzjumper, McKeviin, DKmarc & Pealoaf](https://www.reddit.com/r/NothingTech/comments/1jzljrf/guide_how_to_remap_the_essential_key_on_the_phone/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) | [David_Ign](https://www.reddit.com/r/NothingTech/comments/1jv6gea/quick_guide_to_remap_the_essential_space_button/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) | [rwilco12](https://xdaforums.com/t/how-to-disable-or-remap-the-essentials-button.4755184/) | [z3phydev](https://github.com/z3phydev/How-to-remap-or-disable-the-Essential-Key)
