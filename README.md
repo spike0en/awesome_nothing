@@ -8,6 +8,8 @@
 
 A curated list of everything related to [Nothing & CMF by Nothing](https://nothing.tech) ecosystem.
 
+---
+
 ## Socials 
 
 ### Official 
@@ -141,6 +143,8 @@ Community-made and inspired apps following the Nothing design.
 - [Nothing Glyph Gyroscope by gawdam](https://github.com/gawdam/nothingGyro) - A simple and intuitive bubble level app for the Nothing phone (1) and (2), using the built-in accelerometer and gyroscope sensors to detect tilt angles.
 - [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
 
+---
+
 #### Notes & Productivity
 
 - [Dothing by FirstYogi](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) - A minimalist tasks app with cloud backup.
@@ -152,6 +156,8 @@ Community-made and inspired apps following the Nothing design.
 - [Noting by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.notingnotes) - A Nothing styled notes and tasks app with cloud backup.
 - [Simple Launcher by DinoyRajk](https://play.google.com/store/apps/details?id=com.dino.simple) - A minimalist launcher for Android designed to keep you focused, productive, and distraction-free.
 - [Spend Notes by Coder monk labs](https://play.google.com/store/apps/details?id=com.cmlabs.spendflow.spendflow) - A minimalist app to track your expenses effortlessly.
+
+---
 
 #### Utilities & Tools
 
@@ -169,6 +175,8 @@ Community-made and inspired apps following the Nothing design.
 - [OpenCalc by drrnb](https://github.com/drrnb/OpenCalc/releases/tag/v3.0.0-beta4-nothing) - A simple nothing themed calculator app
 - [SaferDev by abhixv](https://play.google.com/store/apps/details?id=com.abhixv.saferdev) - The ultimate tool for gaining complete insights into your Nothing device.
 - [Voidcaller by VoidwareLabs](https://play.google.com/store/apps/details?id=com.voidware.voidcaller&hl=en_IN) - A minimalist dialer that combines simplicity and speed with a stylish, monochrome design inspired by Nothing OS.
+
+---
 
 #### Miscellaneous
 
@@ -197,6 +205,8 @@ A collection of Glyph related projects created by the Nothing community.
 - [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix. 
 - [pyglyph by Snakehater](https://github.com/Snakehater/pyglyph) - A python script for audio visualizing and Nothing Glyph Composer OGG generation.
 
+---
+
 ##### Glyph Matrix Toys
 A collection of Glyph Matrix Toys by the community. Additionally check out [Nothing Playground](https://playground.nothing.tech/) for more interesting stuff!
 
@@ -218,6 +228,8 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 - [Pomodoro Timer by pzmuV1517](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
 - [Timepiece by Arun Khanchandani](https://play.google.com/store/apps/details?id=com.arunk140.timepiece) - Transform your Glyph Matrix into a smart, functional, and stylish information hub with an ultimate Always-On clock utility.
+
+---
 
 #### Miscellaneous
 Other interesting projects maintained by the community.
@@ -258,12 +270,18 @@ The official suite of apps developed by Nothing Technology Limited.
 - [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
 - [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone) 
 
+---
+
 ### Wallpapers
 The walls have been archived for access under respective directories named after the corresponding device codenames.
 
 -  [Download](https://archive.org/download/nothing-archive/spike0en/walls/)
 
+---
+
 ### Fonts
+
+#### System
 
 - [Inter](https://rsms.me/inter/)
 - [Lettera Mono - Regular](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/LetteraMonoLL-Regular.otf)
@@ -274,11 +292,19 @@ The walls have been archived for access under respective directories named after
 - [NType82 (Headline)](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/NType82-Headline.otf)
 - [NType82 (Regular)](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/NType82-Regular.otf)
 
+#### Website
+
+- [NothingFont by xeji01](https://github.com/xeji01/nothingfont) - [nothing.tech](https://nothing.tech) typeface.
+
+---
+
 ### System Sounds
 
 - [Alarms](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/alarms)
 - [Notifications](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/notifications)
 - [Ringtones](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/ringtones)
+
+---
 
 ### Kernel Sources
 
@@ -290,6 +316,8 @@ The walls have been archived for access under respective directories named after
 - [CMF Phone (1)](https://github.com/NothingOSS/android_kernel_6.1_nothing_mt6878)
 - [CMF Phone (2) Pro](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaga/v)
 
+---
+
 ### Glyph Developer Kit SDK & API(s)
 Software toolkit for devs to create custom create custom interactive experiences for Glyph LED / Matrix.
 
@@ -300,6 +328,8 @@ Software toolkit for devs to create custom create custom interactive experiences
 - [BetterGDK by Fr4nKB (Unofficial)](https://github.com/Fr4nKB/BetterGDK) - A modified version of Glyph Developer Kit by Nothing-Developer-Programme aiming to [fix bugs and improve code quality](https://github.com/Fr4nKB/BetterGDK).
 - [Nothing Glyph Interface for Flutter (Unofficial)](https://pub.dev/packages/nothing_glyph_interface)
 - [NothingOS.Unity (Unofficial)](http://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
+
+---
 
 ### Support Links
 Official support links related to after-sales, tech support, business and careers.
@@ -346,10 +376,14 @@ These tools are crucial for device debugging and .
 - [SGCam by Shamim](https://www.celsoazevedo.com/files/android/google-camera/dev-shamim/)
 - [BSG & MGC](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 
+---
+
 ### GCAM Configs
 The config (`xml`) files have been archived for access in their respective directories, named after the corresponding device names. Creator names (if known) are included in the filenames for proper attribution.
 
 - [Download](https://archive.org/download/nothing-archive/spike0en/photography/)
+
+---
 
 ### Miscellaneous
 
@@ -376,3 +410,5 @@ If this index has been helpful, please consider **[starring the repository](http
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
 </picture>
+
+---
