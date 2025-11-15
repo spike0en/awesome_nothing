@@ -417,6 +417,25 @@ Recommended for power users who know what they are doing!
 
 ---
 
+## Aftermarket Development
+
+- Stay updated with custom ROM(s), kernel(s), and other aftermarket development projects for your devices.  
+- This section is **community-managed** and **not affiliated with the brand** itself.
+
+> **NOTE**  
+> - Linking individual ROM releases for every device variant is not feasible, as each update requires reviewing the maintainer’s specific notes and OTA-related details.  
+> - Unlocking the bootloader to flash custom firmware **will void your OEM warranty**. Proceed at your own discretion and ensure you understand the required steps and risks.  
+> - Official Nothing OS OTA (Stable & Beta) release prompts (when available) are be included here for sideloading purposes.  
+> - Below are Telegram channels that aggregate relevant updates and serve as central hubs for enthusiasts. Preview links work without joining the platform, but creating an account 
+is recommended if you want support from developers or maintainers or if you wish to interact yourself.
+
+### Device Channels
+
+- **Nothing**: [Phone (1)](https://t.me/s/NothingPhone1Updates) | [Phone (2)](https://t.me/s/NothingPhone2updates) | [Phone (2a) Series](https://t.me/s/NothingPhone2aUpdates) | [Phone (3a) Series](https://t.me/s/NothingPhone3aUpdates) | [Phone (3)](https://t.me/s/Phone3Updates)
+- **CMF by Nothing**: [Phone (1)](https://t.me/s/CMFPhone1Updates) | [Phone (2) Pro](https://t.me/s/CMFPhone2GlobalUpdates)
+
+---
+
 ## Acknowledgements
 
 - A massive shoutout and thank you to all the **creators, project maintainers, contributors, and community members** working behind the scenes on various Nothing-related projects. Your efforts, whether direct or indirect, have helped make this project possible. ❤️
