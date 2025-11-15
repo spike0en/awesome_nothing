@@ -26,7 +26,7 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ### Unofficial (Community Maintained)
 
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive) [![XDA](https://img.shields.io/badge/-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/) [![Reddit](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) 
+[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/nothing_archive) [![XDA](https://img.shields.io/badge/-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/) [![Reddit](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) 
 
 ---
 
