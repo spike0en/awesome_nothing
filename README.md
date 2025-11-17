@@ -205,14 +205,15 @@ Community-made and inspired apps following the Nothing design.
 ##### Glyph tools
 A collection of Glyph related projects created by the Nothing community.
 
+- [Better Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix. For more info refer to the instructions stated [here](https://better-nothing-glyph-composer.pages.dev/).
+- [Better Nothing Glyph Visualizer by alekslevet](https://github.com/Aleks-Levet/better-nothing-music-visualizer) - This script should be used in conjunction with [SebiAi's glyph tools](https://github.com/SebiAi/custom-nothing-glyph-tools) to have better music visualization on Nothing phones.
 - [Cassette by Chipik0](https://github.com/Chipik0/Cassette) - Create stunning glyph compositions with this toolset.
 - [Custom Nothing Glyph Tools by SebiAi](https://github.com/SebiAi/custom-nothing-glyph-tools) - Create custom Glyph tones using Audacity with this toolset.  
 - [Glyphify v1 by Fr4nKB](https://github.com/Fr4nKB/Glyphify) - Advanced Glyph control app. v3 is now available on the Play Store.  
 - [Glyphtones project by Firu11](https://github.com/firu11/nothing-glyphtones) - The open-source repository powering the Glyphtones website. 
 - [Glyphtones website by Firu11](https://glyphtones.is-a.dev/) - A web-based collection of community-made Glyph tones with device filters and a built-in visualizer.  
 - [GlyphVisualizer by SebiAi](https://github.com/SebiAi/GlyphVisualizer) - Desktop app to visualize .ogg Glyph compositions. Supports the Phone (3) Glyph Matrix.  
-- [Haptificator by Fr4nKB](https://github.com/Fr4nKB/Haptificator) - Simple Python script to add haptics to your Phone (1) Glyph composition.
-- [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix. 
+- [Haptificator by Fr4nKB](https://github.com/Fr4nKB/Haptificator) - Simple Python script to add haptics to your Phone (1) Glyph composition. 
 - [pyglyph by Snakehater](https://github.com/Snakehater/pyglyph) - A python script for audio visualizing and Nothing Glyph Composer OGG generation.
 
 ---
