@@ -252,7 +252,8 @@ Other interesting projects maintained by the community.
 - [Macros by RedSkullxHydra](https://nothing.community/d/14869-useful-macros-for-nothing-phones) - Useful Macros for Nothing Phones compatible with Macrodroid.
 - [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
 - [nKWGT by avnishkt2783](https://github.com/avnishkt2783/nKWGT) - Yet another collection of Nothing-style widgets.
-- [Notes by rohankishore](https://github.com/rohankishore/Notes-1) - A NothingOS themed notepad for Windows
+- [Notes by rohankishore](https://github.com/rohankishore/Notes-1) - A NothingOS themed notepad for Windows.
+- [Ntype JP by shibadogcap](https://github.com/Nothing-Japanese-font-project/Ntype-JP/releases) - Ntype Japanese font.
 - [Nothing Archive by spike0en](https://github.com/spike0en/nothing_archive) - Indexes, generates, and preserves official OTA links and unmodified images for Nothing OS devices. Useful for manual updates, restoring stock firmware, or custom development. 
 - [Nothing Flasher by spike0en & Hellboy017](https://github.com/spike0en/nothing_flasher) - A set of fastboot scripts for flashing Nothing OS firmware for respective models.
 - [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets. 
