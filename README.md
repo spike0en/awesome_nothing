@@ -160,6 +160,7 @@ Community-made and inspired apps following the Nothing design.
 - [Seton by arijit4](https://github.com/arijit4/Seton) - A note-taking app that keeps your notes always visible, allowing you to pin and edit them, and includes a widget for quick access when no notes are pinned.
 - [Simple Launcher by DinoyRajk](https://play.google.com/store/apps/details?id=com.dino.simple) - A minimalist launcher for Android designed to keep you focused, productive, and distraction-free.
 - [Spend Notes by Coder monk labs](https://play.google.com/store/apps/details?id=com.cmlabs.spendflow.spendflow) - A minimalist app to track your expenses effortlessly.
+- [The Circle by Quiva Connect](https://play.google.com/store/apps/details?id=com.quivaconnect.thecircle) - A community driven language learning app with styling inspired by Nothing OS.
 
 ---
 
