@@ -155,6 +155,7 @@ Community-made and inspired apps following the Nothing design.
 - [NDot Notes by AzhamProdLive](https://github.com/AzhamProdLive/Notes_App_Nothing) - A simple notes app with NDot font theme.
 - [Notes by monospace](https://play.google.com/store/apps/details?id=com.monospace.notes) - A Nothing styled notes app with built-in security.
 - [Notes by ThriveEngineer](https://github.com/ThriveEngineer/nothing.notes) - A Nothing themed notes app for Android.
+- [Nothing Notes by Apex Creator](https://play.google.com/store/apps/details?id=com.ApexCreator.nothingnotes) - A minimal Nothing-themed notepad that allows you to create and edit plain text files without any formatting features or clutter.
 - [Noting by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.notingnotes) - A Nothing styled notes and tasks app with cloud backup.
 - [Seton by arijit4](https://github.com/arijit4/Seton) - A note-taking app that keeps your notes always visible, allowing you to pin and edit them, and includes a widget for quick access when no notes are pinned.
 - [Simple Launcher by DinoyRajk](https://play.google.com/store/apps/details?id=com.dino.simple) - A minimalist launcher for Android designed to keep you focused, productive, and distraction-free.
@@ -178,6 +179,7 @@ Community-made and inspired apps following the Nothing design.
 - [Nothing Clock by Sasha Chverenko](https://github.com/SushiiReboot/Nothing-Clock) - A Nothing style world clock, timer and stopwatch app.
 - [Nothing Desk Clock by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.deskclock) - An app that transforms your phone into a stylish desk clock, featuring customizable designs and a full-screen display for easy time management.
 - [Nothing Gallery by jerichoi224](https://github.com/jerichoi224/Nothing-Gallery) - A gallery for Nothing phones with an effort to follow the Nothing design Language.
+- [Nothing LED Banner by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.thebannerapp) - Create captivating LED banners on your device for events, advertising, and more with the help of this app!
 - [Nothing Weather by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.nothing_weather) - A Nothing style weather app to know how much warmer or colder it is than yesterday.
 - [NothingK by cuadratico](https://github.com/cuadratico/NothingK) - A digital vault for storing passwords.
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic. You can find presets for the same in [this discord server thread](https://discord.com/channels/930878214237200394/1396048761599557693).
