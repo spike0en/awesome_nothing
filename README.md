@@ -276,6 +276,7 @@ Other interesting projects maintained by the community.
 - [GlyphMatrixEditor by pauwma](https://github.com/pauwma/GlyphMatrixEditor) - A web-based pixel art editor specifically designed for creating Nothing Phone (3) Glyph Matrix animations.
 - [Glyph Matrix Image Maker by quintenvandamme](https://github.com/quintenvandamme/glyph-matrix-image-maker) - A web application that converts images into glyph matrix patterns.
 - [Macros by RedSkullxHydra](https://nothing.community/d/14869-useful-macros-for-nothing-phones) - Useful Macros for Nothing Phones compatible with Macrodroid.
+- [Mini Calendar Menu](https://nothing.community/d/32951-mini-calender-menu/4) - A transparent [KWGT](https://nothing.community/d/32951-mini-calender-menu/6) calendar widget.
 - [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
 - [nKWGT by avnishkt2783](https://github.com/avnishkt2783/nKWGT) - Yet another collection of Nothing-style widgets.
 - [Notes by rohankishore](https://github.com/rohankishore/Notes-1) - A NothingOS themed notepad for Windows.
