@@ -202,6 +202,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [NothingK by cuadratico](https://github.com/cuadratico/NothingK) - A digital vault for storing passwords.
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic. You can find presets for the same in [this discord server thread](https://discord.com/channels/930878214237200394/1396048761599557693).
 - [OpenCalc by drrnb](https://github.com/drrnb/OpenCalc/releases/tag/v3.0.0-beta4-nothing) - A simple nothing themed calculator app
+- [RTMON by n1th1n-19](https://github.com/n1th1n-19/RTMON) - A sleek, real-time system monitoring widget for Nothing phones, designed with a retro LED aesthetic.
 - [SaferDev by abhixv](https://play.google.com/store/apps/details?id=com.abhixv.saferdev) - The ultimate tool for gaining complete insights into your Nothing device.
 - [The Everything Key by spandone](https://play.google.com/store/apps/details?id=com.spandone.everythingkey&pli=1) - An app that allows users to remap the essential key found on Nothing Phones.
 - [Voidcaller by VoidwareLabs](https://play.google.com/store/apps/details?id=com.voidware.voidcaller&hl=en_IN) - A sleek, minimalist dialer with a dark monochrome UI, fluid animations, and pill-shaped navigation — perfectly capturing Nothing OS’s clean, futuristic aesthetic.
