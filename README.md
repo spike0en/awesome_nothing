@@ -410,6 +410,7 @@ Official support links related to after-sales, tech support, business and career
 - [FAQ](https://support.nothing.tech/hc/en-us/categories/38487703211153-FAQ)
 - [Nothing Twitter(X) Support](http://nothingsupport/)
 - [Product Guide](http://nothing.tech/pages/support-product-help)
+- [Product Status](https://nothing.tech/pages/imei)
 - [Service Centre](http://nothing.tech/pages/service-center)
 - [Troubleshooting](https://support.nothing.tech/hc/en-us/categories/7455115681041-Troubleshooting)
 
