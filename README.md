@@ -465,7 +465,7 @@ The config (`xml`) files have been archived for access in their respective direc
 - [Google Photos Collection](https://photos.google.com/share/AF1QipMLXmA5txDQHqlHzF6OV4HhkLTMsqUx9m8_3jMNH0_MizjA7038n_j8gz4v54zTNw?pli=1&key=QUJKYVY4akFFWGVCWWtleG9DMkNCcDc1c2V5TzZB)
 - [Nothing Playground](https://playground.nothing.tech/presets?ref=aitoolsclub.com)
 - [Notion Doc by flo_rahil](http://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
-- [r/NothingTech](https://www.reddit.com/r/NothingTech/search/?q=camera+presets&cId=70df6813-08c4-4c20-92cb-8760e1b7962e&iId=b0b36039-e06b-42bc-b68a-27abd9ea8447)
+- [r/NothingTech](https://www.reddit.com/r/NothingTech/search/?q=camera+presets&type=posts&sort=new&iId=78dc728f-79f3-4444-8427-93f9df64240f)
 - [Telegram Community Topic](https://t.me/NothingTelegramCommunity)
 
 
