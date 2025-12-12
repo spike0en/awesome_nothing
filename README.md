@@ -254,6 +254,7 @@ A collection of Glyph Matrix Toys by the community.
 - [Glyph Beat by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphbeat) - A media visualizer offering a variety of animated Glyph themes.  
 - [Glyph Bike by Ofishial Digital](https://play.google.com/store/apps/details?id=com.ofishialdigital.glyphbike) - A fast-paced scrolling game where you navigate a motorbike through jumps and obstacles.  
 - [Glyph Catch by equalparts](https://github.com/equalparts/glyph-catch) - A Pokémon collecting fan-game for Nothing Phone 3 Glyph Matrix
+- [Glyph Marquee by bluehomewu](https://github.com/bluehomewu/GlyphMarquee) - A simple Glyph Matrix toy that displays scrolling text messages.
 - [Glyph Matrix Simulator by pzmuV1517](http://glyph.andreibanu.com/) - A website to test and develop Glyph Matrix code.
 - [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
 - [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
