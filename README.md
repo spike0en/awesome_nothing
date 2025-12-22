@@ -240,6 +240,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
 - [Calories Are Nothing by WeAreMobileFirst](https://play.google.com/store/apps/details?id=can.wearemobilefirst.com) -  A meal logging app that helps you make better food choices by allowing quick photo or text entries without the hassle of calorie counting.
+- [Currency by Earendel](https://github.com/zwebuse-lab/Currency) - A simple and minimal currency converter inspired from Nothing OS.
 - [CMF Custom Volume Controller by AlirezaFarghadani](https://github.com/alirezafarghadani999/CMF_CustomVolumeControl) - A custom volume controller app for CMF by Nothing Phones.
 - [Gamething by Lev Matuzin](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) - A game inspired by Google’s Dino game, thoughtfully redesigned to perfectly complement Nothing phones.
 - [HeyBattery by Candan](https://github.com/ghostyapps/HeyBattery) - A lightweight Android app that tracks your battery usage and charging behavior.
