@@ -84,16 +84,17 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
 
 <br>
 
-| Device name           | Model        | Codename        | Pokémon Name     | Release Date |
-|-----------------------|--------------|-----------------|------------------|--------------|
-| Phone (1)             | A063         | Spacewar        | Abra             | July 2022    |
-| Phone (2)             | A065         | Pong            | Alakazam         | July 2023    |
-| Phone (2a)            | A142         | Pacman          | Aerodactyl       | March 2024   |
-| Phone (2a) Plus       | A142P        | PacmanPro       | Mega Aerodactyl  | August 2024  |
-| Phone (3a) / (3a) Pro | A059 / A059P | Asteroids       | Arcanine         | March 2025   |
-| Phone (3)             | A024         | Metroid         | Arbok            | July 2025    |
-| Phone (3a) Lite       | A001T        | Galaxian        | Bulbasaur        | October 2025 |
-| Phone (4a) / (4a) Pro | A069 / A069P | Frogger / FroggerPro | Bellsprout | N/A |
+| Device Name           | Model        | Codename              | Pokémon Name     | Release Date |
+|-----------------------|--------------|-----------------------|------------------|--------------|
+| Phone (1)             | A063         | Spacewar              | Abra             | July 2022    |
+| Phone (2)             | A065         | Pong                  | Alakazam         | July 2023    |
+| Phone (2a)            | A142         | Pacman                | Aerodactyl       | March 2024   |
+| Phone (2a) Plus       | A142P        | PacmanPro             | Mega Aerodactyl  | August 2024  |
+| Phone (3a) / (3a) Pro | A059 / A059P | Asteroids             | Arcanine         | March 2025   |
+| Phone (3)             | A024         | Metroid               | Arbok            | July 2025    |
+| Phone (3a) Lite       | A001T        | Galaxian              | Bulbasaur        | October 2025 |
+| Phone (4a) / (4a) Pro | A069 / A069P | Frogger / FroggerPro  | Bellsprout       | TBA          |
+
 
 </details>
 
@@ -102,15 +103,15 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
 
 <br>
 
-| Device name      | Model   | Pokémon Name | Release date   |
-|------------------|---------|--------------|----------------|
-| Ear (1)          | B181    | Aipom        | July 2021      |
-| Ear (stick)      | B157    | Bellossom    | November 2022  |
-| Ear (2)          | B155    | Azumarill    | March 2023     |
-| Ear              | B171    | Entei        | April 2024     |
-| Ear (a)          | B162    | Cleffa       | April 2024     |
-| Ear (open)       | B182    | Flaaffy      | September 2024 |
-| Headphone (1)    | B170    | Elekid       | July 2025      |
+| Device Name   | Model | Pokémon Name | Release Date   |
+|---------------|-------|--------------|----------------|
+| Ear (1)       | B181  | Aipom        | July 2021      |
+| Ear (stick)   | B157  | Bellossom    | November 2022  |
+| Ear (2)       | B155  | Azumarill    | March 2023     |
+| Ear           | B171  | Entei        | April 2024     |
+| Ear (a)       | B162  | Cleffa       | April 2024     |
+| Ear (open)    | B182  | Flaaffy      | September 2024 |
+| Headphone (1) | B170  | Elekid       | July 2025      |
 
 </details>
 
@@ -119,10 +120,10 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
 
 <br>
 
-| Device name     | Model  | Pokémon Name | Release date |
-|-----------------|--------|--------------|--------------|
-| CMF Phone 1     | A015   | Beedrill     | July 2024    |
-| CMF Phone 2 Pro | A001   | Bulbasaur    | April 2025   |
+| Device Name   | Model | Codename | Pokémon Name | Release Date |
+|---------------|-------|----------|--------------|--------------|
+| Phone (1)     | A015  | Tetris   | Beedrill     | July 2024    |
+| Phone (2) Pro | A001  | Galaga   | Bulbasaur    | April 2025   |
 
 </details>
 
@@ -131,16 +132,16 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
 
 <br>
 
-| Device name     | Model       | Pokémon Name | Release date   |
-|-----------------|-------------|--------------|----------------|
-| Buds Pro        | B163        | N/A          | September 2023 |
-| Buds            | B168        | N/A          | March 2024     |
-| Neckband Pro    | B164        | N/A          | March 2024     |
-| Buds Pro 2      | B172/B187   | N/A          | June 2024      |
-| Buds 2          | B179        | N/A          | April 2025     |
-| Buds 2 Plus     | B184        | N/A          | April 2025     |
-| Buds 2a         | B185        | N/A          | April 2025     |
-| Headphone Pro   | B175        | N/A          | September 2025 |
+| Device Name   | Model       | Pokémon Name | Release Date   |
+|---------------|-------------|--------------|----------------|
+| Buds Pro      | B163        | N/A          | September 2023 |
+| Buds          | B168        | N/A          | March 2024     |
+| Neckband Pro  | B164        | N/A          | March 2024     |
+| Buds Pro 2    | B172 / B187 | N/A          | June 2024      |
+| Buds 2        | B179        | N/A          | April 2025     |
+| Buds 2 Plus   | B184        | N/A          | April 2025     |
+| Buds 2a       | B185        | N/A          | April 2025     |
+| Headphone Pro | B175        | N/A          | September 2025 |
 
 </details>
 
@@ -149,11 +150,11 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
 
 <br>
 
-| Device name   | Model | Pokémon Name | Release date   |
-|---------------|--------|--------------|----------------|
-| Watch Pro     | D395   | Empoleon     | September 2023 |
-| Watch Pro 2   | D398   | Buizel       | October 2024   |
-| Watch 3 Pro   | D399   | Buneary      | July 2025      |
+| Device Name | Model | Pokémon Name | Release Date   |
+|-------------|-------|--------------|----------------|
+| Watch Pro   | D395  | Empoleon     | September 2023 |
+| Watch Pro 2 | D398  | Buizel       | October 2024   |
+| Watch 3 Pro | D399  | Buneary      | July 2025      |
 
 </details>
 
@@ -162,7 +163,7 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
 
 <br>
 
-| Device name       | Pokémon Name | Release date           |
+| Device Name       | Pokémon Name | Release Date           |
 |-------------------|--------------|------------------------|
 | Power (1)         | Arceus       | Unreleased             |
 | Beer (5.1%)       | N/A          | October 2023 (limited) |
