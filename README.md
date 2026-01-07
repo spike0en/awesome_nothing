@@ -255,6 +255,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 #### Miscellaneous
 
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
+- [Flow by Earendel-lab](https://github.com/Earendel-lab/Flow) - A minimalist Pomodoro timer [web app](http://flowpo.pages.dev/) designed for deep work and distraction-free productivity.
 - [Lentlay by Omkar Mangalekar](https://lentlay.framer.website/) - An app that lets you add the Nothing inspired lenticular effect to your image.
 - [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
 - [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
