@@ -36,7 +36,7 @@
 
 ## Support the Project
 
-If this index is helpful, please consider [starring ⭐ the repository](https://github.com/spike0en/awesome_nothing/stargazers). It helps with discoverability and encourages maintenance. Thank you!
+If this index is helpful, please consider [starring <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> the repository](https://github.com/spike0en/awesome_nothing/stargazers). It helps with discoverability and encourages maintenance. Thank you!
 
 </div>
 
@@ -218,7 +218,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
 - [Calories Are Nothing by WeAreMobileFirst](https://play.google.com/store/apps/details?id=can.wearemobilefirst.com) -  A meal logging app that helps you make better food choices by allowing quick photo or text entries without the hassle of calorie counting.
-- [Currency by Earendel](https://github.com/zwebuse-lab/Currency) - A simple and minimal currency converter inspired from Nothing OS.
+- [Currency by Earendel](https://github.com/zwebuse-lab/Currency) - A simple and minimal currency converter  [web app](http://curency.pages.dev/) inspired from Nothing OS.
 - [CMF Custom Volume Controller by AlirezaFarghadani](https://github.com/alirezafarghadani999/CMF_CustomVolumeControl) - A custom volume controller app for CMF by Nothing Phones.
 - [Elements Widgets by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.elements) - A fresh, minimal and functional widgets experience inspired by Nothing OS for your home screen.
 - [Gamething by Lev Matuzin](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) - A game inspired by Google’s Dino game, thoughtfully redesigned to perfectly complement Nothing phones.
