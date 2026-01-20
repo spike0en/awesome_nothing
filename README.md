@@ -360,6 +360,8 @@ Other interesting projects maintained by the community.
 - [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
 - [Spin The Bottle Simulator by MadGlacierRunner](http://dotmatrix-beerbottle.vercel.app/) - A simulation for spin the bottle toy.
 - [Wallpaper Studio Pro by Ifham9](https://wallpaperstudiopro.netlify.app/) - An AI-powered tool that generates minimalist, deep-black wallpapers with an UI tailored for Nothing phones.
+- [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing) - NothingOS enhanced module.
+- [NOS Aura Killer](https://github.com/reindex-ot/NOS_AuraKiller/) - NothingOS 4.0 Debloat module.
 
 <div align="center">
   <br>
