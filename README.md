@@ -180,6 +180,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Glyph Unlock Pulse by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphunlockpulse) - Enhance your device unlock experience with animated glyphs.
 - [Glyph Initiator by lowqualitysoarin](https://github.com/lowqualitysoarin/Glyph-Initiator/releases) - An app to control the glyph interface of Nothing phones by sending intents.
 - [Glyph Studio by SyedAhkam](https://github.com/SyedAhkam/glyph-studio) - Your playground for everything Glyphs.
+- [GlyphGlow by fgiering](https://github.com/fgiering/GlyphGlow) - A minimal app to control the Glyph interface on supported Nothing phones.
 - [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications, charging indicators, mini-games and Glyph compositions. Supports Glyph Matrix on Phone (3).
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
 - [GlyphSharge by bleelblep](https://github.com/Leekawaii666/GlyphSharge) - A powerful glyph interface management app for Nothing phones that enhances the Glyph interface capabilities with advanced features and customization options.
