@@ -237,6 +237,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [NoCalendar by NoAppsStudio](https://play.google.com/store/apps/details?id=com.calendar.nocalendar) - A calendar app inspired by Nothing design, with Google Calendar sync.
 - [NothingQuickTools by DylanAkp](https://github.com/DylanAkp/NothingQuickTools) - A collection of useful quick tiles for Nothing Phone (2).
 - [Nothing Audio Recorder by Cloud Nine Labs](https://play.google.com/store/apps/details?id=com.service.rare.audio.recorder) - An audio recorder app following the Nothing design language.
+- [Nothing Browser by Creepsmile](https://play.google.com/store/apps/details?id=com.lended.browser) - An AI-powered, minimalist web browser that delivers a focused, intelligent browsing experience with a sleek design inspired by Nothing OS.
 - [Nothing Clock by Sasha Chverenko](https://github.com/SushiiReboot/Nothing-Clock) - A Nothing style world clock, timer and stopwatch app.
 - [Nothing Desk Clock by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.deskclock) - An app that transforms your phone into a stylish desk clock, featuring customizable designs and a full-screen display for easy time management.
 - [Nothing Gallery by jerichoi224](https://github.com/jerichoi224/Nothing-Gallery) - A gallery for Nothing phones with an effort to follow the Nothing design Language.
