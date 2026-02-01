@@ -247,6 +247,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Nothing Weather by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.nothing_weather) - A Nothing style weather app to know how much warmer or colder it is than yesterday.
 - [NothingK by cuadratico](https://github.com/cuadratico/NothingK) - A digital vault for storing passwords.
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic. You can find presets for the same in [this discord server thread](https://discord.com/channels/930878214237200394/1396048761599557693).
+- [NxCalculator by montybytes](https://github.com/montybytes/nxcalculator) - A simple calculator app that follows the design language of Nothing OS for Nothing and CMF phones.
 - [OpenCalc by drrnb](https://github.com/drrnb/OpenCalc/releases/tag/v3.0.0-beta4-nothing) - A simple nothing themed calculator app
 - [Recording Light Control by Farpathan](https://github.com/Farpathan/Recording-Light-Control) - An app the allows users to control the recording light on the Nothing Phone (3)
 - [RTMON by n1th1n-19](https://github.com/n1th1n-19/RTMON) - A sleek, real-time system monitoring widget for Nothing phones, designed with a retro LED aesthetic.
