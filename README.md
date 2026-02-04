@@ -26,6 +26,7 @@
 
 #### Community Maintained
 
+[![Discord](https://img.shields.io/badge/-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BU4RXE3HYF)
 [![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/nothing_archive)
 [![XDA](https://img.shields.io/badge/-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/)
 [![r/NothingTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech)
