@@ -33,8 +33,6 @@
 [![r/Nothing](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Nothing)
 [![r/CMFTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/CMFTech)
 
-<br>
-
 ## Support the Project
 
 If this index is helpful, please consider [starring <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> the repository](https://github.com/spike0en/awesome_nothing/stargazers). It helps with discoverability and encourages maintenance. Thank you!
@@ -363,6 +361,7 @@ Other interesting projects maintained by the community.
 - [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets. 
 - [Nothing News Hub by StickyPRP](https://nothing-news.de/hub/) - Your central hub for everything related to nothing, be it apps, reviews, and news.
 - [Nothing News by lsh3](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) - A Chrome extension to quickly browse the latest nothing.community news.  
+- [Nothing Space by ROHit](https://github.com/nothingtools/nothingtools.github.io) - A fan-made, all-in-one [community hub](https://nothingtools.github.io/) for Nothing & CMF users to share setups, download resources, get updates, and connect with the community.
 - [Nothing VSCode Theme by shahriaravi]( https://github.com/shahriaravi/nothing-vscode-theme) - A Nothing OS styled VS Code theme extension.
 - [NothingOS Manjaro Gnome by HyenaDesign](https://github.com/HyenaDesign/nothingos-gnome-manjaro) - A NothingOS inspired desktop build for Manjaro Linux (GNOME edition).
 - [NotWidgets by GXX0T](https://github.com/GXX0T/NotWidgets) - A collection of minimalist Nothing OS-inspired Rainmeter widgets for Windows with light/dark mode options.
