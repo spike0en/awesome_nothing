@@ -32,10 +32,8 @@
 [![r/NothingTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech)
 [![r/Nothing](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Nothing)
 [![r/CMFTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/CMFTech)
-[![/nothingtech](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=digg&logoColor=black)](https://digg.com/nothingtech)
-[![/cmf](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=digg&logoColor=black)](https://digg.com/cmf)
-<br>
 
+<br>
 
 ## Support the Project
 
