@@ -230,6 +230,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [MateApp by shahriaravi](https://github.com/shahriaravi/MateApp) - A minimalist, offline finance tracker inspired by the Nothing aesthetic, ensuring your data remains private and under your control.
 - [Minimal Browser by aaswani-v](https://github.com/aaswani-v/Minimal-Browser) - A streamlined browsing experience featuring glass morphism, one-hand accessibility, and integrated AI summarization.
 - [n-recipe by a3chron](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - An offline recipebook app, with theming inspired by Nothing.
+- [NBoard by MathieuDvv](https://github.com/MathieuDvv/Nboard) - A minimal Nothing-inspired keyboard with AI tools, clipboard power features, emoji search, and fast typing UX.
 - [NCalc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [NDial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
 - [NeoCalc by Creepsmile](https://play.google.com/store/apps/details?id=com.lended.neocalc) - A sleek, Nothing OS inspired calculator that delivers fast, offline, and privacy-focused calculations in a clean, futuristic interface.
@@ -289,7 +290,7 @@ A collection of Glyph related projects created by the Nothing community.
 - [Better Nothing Glyph Visualizer by alekslevet](https://github.com/Aleks-Levet/better-nothing-music-visualizer) - This script should be used in conjunction with [SebiAi's glyph tools](https://github.com/SebiAi/custom-nothing-glyph-tools) to have better music visualization on Nothing phones.
 - [Cassette by Chipik0](https://github.com/Chipik0/Cassette) - Create stunning glyph compositions with this toolset.
 - [Custom Nothing Glyph Tools by SebiAi](https://github.com/SebiAi/custom-nothing-glyph-tools) - Create custom Glyph tones using Audacity with this toolset.  
-- [Glyphify v1 by Fr4nKB](https://github.com/Fr4nKB/Glyphify) - Advanced Glyph control app. v3 is now available on the Play Store.  
+- [Glyphify v1 by Fr4nKB](https://github.com/Fr4nKB/Glyphify) - Advanced Glyph control app. v3 is now available on the Play Store.
 - [Glyphtones project by Firu11](https://github.com/firu11/nothing-glyphtones) - The open-source repository powering the Glyphtones website. 
 - [Glyphtones website by Firu11](https://glyphtones.is-a.dev/) - A web-based collection of community-made Glyph tones with device filters and a built-in visualizer.  
 - [GlyphVisualizer by SebiAi](https://github.com/SebiAi/GlyphVisualizer) - Desktop app to visualize .ogg Glyph compositions. Supports the Phone (3) Glyph Matrix.  
