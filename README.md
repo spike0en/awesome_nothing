@@ -668,7 +668,7 @@ is recommended if you want support from developers or maintainers or if you wish
 
 ## Acknowledgements
 
-- [Adbo](https://discord.com/users/168006441318350848) and [Siemens NX](https://discord.com/users/150299184426123273) for their noteworthy contributions to the index and for co-maintaining it.
+- [Adbo](https://discord.com/users/168006441318350848) and [Siemens NX](https://discord.com/users/150299184426123273) for their noteworthy contributions to the index.
 - A massive shoutout and thank you to all the **creators, project maintainers, and community members** working behind the scenes on various Nothing-related projects. Your efforts, whether direct or indirect, have helped make this project possible. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="30" height="30" />
 
 <div align="center">
