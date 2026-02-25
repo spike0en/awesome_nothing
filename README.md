@@ -360,6 +360,7 @@ Other interesting projects maintained by the community.
 - [Nothing Archive by spike0en](https://github.com/spike0en/nothing_archive) - Indexes, generates, and preserves official OTA links and unmodified images for Nothing OS devices. Useful for manual updates, restoring stock firmware, or custom development. 
 - [Nothing Bar by bestK1ngArthur](https://github.com/bestK1ngArthur/nothing-bar) - Native macOS menu bar app to control Nothing headphones. 
 - [Nothing Flasher by spike0en & Hellboy017](https://github.com/spike0en/nothing_flasher) - A set of fastboot scripts for flashing Nothing OS firmware for respective models.
+- [Nothing Home by nemy-new](https://github.com/nemy-new/NothingHome) - A Nothing inspired extension that transforms your browser's New Tab Page into a clean, modern layout with handy tools and widgets.
 - [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets. 
 - [Nothing News Hub by StickyPRP](https://nothing-news.de/hub/) - Your central hub for everything related to nothing, be it apps, reviews, and news.
 - [Nothing News by lsh3](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) - A Chrome extension to quickly browse the latest nothing.community news.  
