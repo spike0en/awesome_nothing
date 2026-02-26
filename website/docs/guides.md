@@ -1,0 +1,98 @@
+---
+sidebar_position: 7
+title: Guides
+---
+
+# How-to Guides
+
+Step-by-step guides for Nothing device owners.
+
+## General Guides
+
+Tips, tricks, and general guides for everyone.
+
+### Manual OTA Updates
+
+Skip step I.(B) if your device is not rooted or has a locked bootloader (stock partitions unmodified). For locked bootloader devices, use the dialer method. For open beta updates, use the `Beta Updater Hub` app as the dialer code won't work.
+
+- [Manual OTA Sideloading Guide](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#i-ota-sideloading-) by spike0en
+
+### Safe Mode
+
+- [Rebooting to Safe Mode](https://www.hardreset.info/devices/nothing/nothing-phone-2/safe-mode/)
+
+### Phone (2a) SE Hidden Feature
+
+- [Unlock Hidden Feature](https://nothing.community/d/11058-hidden-feature-of-phone-2a-special-edition) by RapidZapper
+
+### Essential Key Remapping
+
+Guides for remapping the Essential Key on Phone (3):
+
+| Guide | Author |
+|-------|--------|
+| [Reddit Guide](https://www.reddit.com/r/NothingTech/comments/1jzljrf/guide_how_to_remap_the_essential_key_on_the_phone/) | acruzjumper, McKeviin, DKmarc & Pealoaf |
+| [Quick Remap Guide](https://www.reddit.com/r/NothingTech/comments/1jv6gea/quick_guide_to_remap_the_essential_space_button/) | David_Ign |
+| [XDA Guide](https://xdaforums.com/t/how-to-disable-or-remap-the-essentials-button.4755184/) | rwilco12 |
+| [GitHub Guide](https://github.com/z3phydev/How-to-remap-or-disable-the-Essential-Key) | z3phydev |
+
+---
+
+## Advanced Guides
+
+:::warning
+Recommended for power users only. These procedures can brick your device or void warranty if done incorrectly.
+:::
+
+### Bootloader
+
+| Guide | Link |
+|-------|------|
+| Unlocking Bootloader | [Guide](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#unlocking-bootloader) |
+| Relocking Bootloader | [Guide](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#relocking-bootloader) |
+
+### Rooting
+
+| Guide | Link |
+|-------|------|
+| Rooting Nothing Phones | [Guide](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#rooting) |
+| Backup Essential Partitions | [Guide](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#backing-up-essential-partitions-after-unlocking-bootloader) |
+
+### Firmware
+
+| Guide | Link |
+|-------|------|
+| Flashing Stock ROM / Unbricking / Downgrading | [Guide](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#flashing-the-stock-rom-using-fastboot-) |
+
+### Play Integrity
+
+| Guide | Link |
+|-------|------|
+| Fix Play Integrity & Root Detection | [Wiki](https://github.com/yashaswee-exe/AndroidGuides/wiki/Fix-integrity-and-root-detection) |
+
+---
+
+## Aftermarket Development
+
+:::note
+This section is community-managed and not affiliated with Nothing. Unlocking the bootloader will void your OEM warranty.
+:::
+
+Stay updated with custom ROMs, kernels, and development projects.
+
+### Device Update Channels (Telegram)
+
+**Nothing:**
+| Device | Channel |
+|--------|---------|
+| Phone (1) | [Updates](https://t.me/s/NothingPhone1Updates) |
+| Phone (2) | [Updates](https://t.me/s/NothingPhone2updates) |
+| Phone (2a) Series | [Updates](https://t.me/s/NothingPhone2aUpdates) |
+| Phone (3a) Series | [Updates](https://t.me/s/NothingPhone3aUpdates) |
+| Phone (3) | [Updates](https://t.me/s/Phone3Updates) |
+
+**CMF by Nothing:**
+| Device | Channel |
+|--------|---------|
+| Phone (1) | [Updates](https://t.me/s/CMFPhone1Updates) |
+| Phone (2) Pro / Phone (3a) Lite | [Updates](https://t.me/s/CMFPhone2GlobalUpdates) |

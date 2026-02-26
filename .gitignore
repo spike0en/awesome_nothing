@@ -1,0 +1,16 @@
+# Dependencies
+website/node_modules/
+
+# Build output
+website/build/
+website/.docusaurus/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

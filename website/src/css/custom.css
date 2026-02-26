@@ -1,0 +1,474 @@
+/**
+ * Nothing-inspired theme for Awesome Nothing
+ * Minimal, monochrome with red accents
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --ifm-color-primary: #d71921;
+  --ifm-color-primary-dark: #c1161d;
+  --ifm-color-primary-darker: #b6151b;
+  --ifm-color-primary-darkest: #961117;
+  --ifm-color-primary-light: #e32a32;
+  --ifm-color-primary-lighter: #e53940;
+  --ifm-color-primary-lightest: #ea5b61;
+  
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-font-family-monospace: 'JetBrains Mono', monospace;
+  --ifm-code-font-size: 90%;
+  --ifm-heading-font-weight: 600;
+  
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #1a1a1a;
+  
+  --docusaurus-highlighted-code-line-bg: rgba(215, 25, 33, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #ff3b3b;
+  --ifm-color-primary-dark: #ff1f1f;
+  --ifm-color-primary-darker: #ff1111;
+  --ifm-color-primary-darkest: #e60000;
+  --ifm-color-primary-light: #ff5757;
+  --ifm-color-primary-lighter: #ff6565;
+  --ifm-color-primary-lightest: #ff8989;
+  
+  --ifm-background-color: #0a0a0a;
+  --ifm-navbar-background-color: #0a0a0a;
+  --ifm-footer-background-color: #000000;
+  --ifm-card-background-color: #141414;
+  
+  --docusaurus-highlighted-code-line-bg: rgba(255, 59, 59, 0.15);
+}
+
+/* Navbar styling */
+.navbar {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.navbar__title {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.navbar__logo {
+  height: 28px;
+}
+
+/* Sidebar styling */
+.menu__link {
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+.menu__link--active {
+  font-weight: 600;
+}
+
+/* Content styling */
+article h1,
+article h2,
+article h3 {
+  letter-spacing: -0.02em;
+}
+
+/* ==========================================
+   TABLE STYLING - MOBILE RESPONSIVE
+   ========================================== */
+
+/* Scrollable table container */
+.markdown,
+.theme-doc-markdown,
+article {
+  overflow-x: visible;
+}
+
+/* Table wrapper div injected by Docusaurus or natural overflow */
+div[class*="tableWrapper"],
+.tableWrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0;
+}
+
+/* Base table styling - keep as table display */
+table {
+  display: table !important;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 0.9rem;
+}
+
+/* Ensure proper table structure */
+table thead {
+  display: table-header-group;
+}
+
+table tbody {
+  display: table-row-group;
+}
+
+table tr {
+  display: table-row;
+}
+
+table th,
+table td {
+  display: table-cell;
+}
+
+/* Table header styling */
+table th {
+  background-color: rgba(128, 128, 128, 0.1);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 2px solid rgba(128, 128, 128, 0.2);
+}
+
+[data-theme='dark'] table th {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Table cell styling */
+table td {
+  vertical-align: middle;
+  padding: 0.75rem 1rem;
+  white-space: nowrap;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.12);
+}
+
+[data-theme='dark'] table td {
+  border-bottom-color: rgba(255, 255, 255, 0.08);
+}
+
+table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Zebra striping */
+table tbody tr:nth-child(even) {
+  background-color: rgba(128, 128, 128, 0.03);
+}
+
+[data-theme='dark'] table tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+/* Row hover */
+table tbody tr:hover {
+  background-color: rgba(128, 128, 128, 0.06);
+}
+
+[data-theme='dark'] table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Mobile: Make parent scrollable, not the table */
+@media screen and (max-width: 996px) {
+  .markdown,
+  .theme-doc-markdown {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  table {
+    font-size: 0.85rem;
+    min-width: 600px;
+  }
+  
+  table th,
+  table td {
+    padding: 0.6rem 0.75rem;
+  }
+  
+  table th {
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  table {
+    font-size: 0.8rem;
+    min-width: 500px;
+  }
+  
+  table th,
+  table td {
+    padding: 0.5rem 0.65rem;
+  }
+  
+  table th {
+    font-size: 0.65rem;
+  }
+}
+
+/* Custom scrollbar for tables */
+.markdown::-webkit-scrollbar,
+.theme-doc-markdown::-webkit-scrollbar {
+  height: 6px;
+}
+
+.markdown::-webkit-scrollbar-track,
+.theme-doc-markdown::-webkit-scrollbar-track {
+  background: rgba(128, 128, 128, 0.1);
+  border-radius: 3px;
+}
+
+.markdown::-webkit-scrollbar-thumb,
+.theme-doc-markdown::-webkit-scrollbar-thumb {
+  background: rgba(128, 128, 128, 0.3);
+  border-radius: 3px;
+}
+
+.markdown::-webkit-scrollbar-thumb:hover,
+.theme-doc-markdown::-webkit-scrollbar-thumb:hover {
+  background: rgba(128, 128, 128, 0.5);
+}
+
+/* Code blocks */
+pre {
+  border: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+code {
+  border-radius: 4px;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+  border-top: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.footer__title {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+}
+
+/* Hero section */
+.hero {
+  background: linear-gradient(180deg, var(--ifm-background-color) 0%, rgba(215, 25, 33, 0.05) 100%);
+}
+
+[data-theme='dark'] .hero {
+  background: linear-gradient(180deg, #0a0a0a 0%, rgba(255, 59, 59, 0.08) 100%);
+}
+
+.hero__title {
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.hero__subtitle {
+  font-size: 1.25rem;
+  opacity: 0.8;
+}
+
+/* Buttons */
+.button {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+}
+
+.button--secondary {
+  background-color: transparent;
+  border: 2px solid currentColor;
+}
+
+/* Dot separator style */
+.dot-separator {
+  text-align: center;
+  letter-spacing: 0.5em;
+  opacity: 0.3;
+  margin: 2rem 0;
+}
+
+/* Cards */
+.card {
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  border-radius: 12px;
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  border-color: var(--ifm-color-primary);
+  transform: translateY(-2px);
+}
+
+/* Admonitions */
+.admonition {
+  border-radius: 8px;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(128, 128, 128, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(128, 128, 128, 0.5);
+}
+
+/* ==========================================
+   MOBILE RESPONSIVE STYLES
+   ========================================== */
+
+/* General mobile content adjustments */
+@media screen and (max-width: 996px) {
+  .hero__title {
+    font-size: 2.25rem;
+  }
+  
+  .hero__subtitle {
+    font-size: 1.1rem;
+  }
+  
+  article h1 {
+    font-size: 1.75rem;
+  }
+  
+  article h2 {
+    font-size: 1.4rem;
+  }
+  
+  article h3 {
+    font-size: 1.15rem;
+  }
+  
+  .footer__links {
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .hero__title {
+    font-size: 1.85rem;
+  }
+  
+  .hero__subtitle {
+    font-size: 1rem;
+    padding: 0 1rem;
+  }
+  
+  article h1 {
+    font-size: 1.5rem;
+  }
+  
+  article h2 {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+  }
+  
+  article h3 {
+    font-size: 1.1rem;
+  }
+  
+  /* Better content padding on mobile */
+  .markdown {
+    padding: 0;
+  }
+  
+  .markdown > * {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+  
+  /* Navbar adjustments */
+  .navbar__title {
+    font-size: 0.95rem;
+  }
+  
+  .navbar__logo {
+    height: 24px;
+  }
+  
+  /* Footer mobile */
+  .footer {
+    padding: 2rem 1rem;
+  }
+  
+  .footer__title {
+    font-size: 0.7rem;
+  }
+  
+  .footer__item {
+    font-size: 0.85rem;
+  }
+  
+  /* Button sizing */
+  .button--lg {
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+  }
+  
+  /* Cards on mobile */
+  .card {
+    border-radius: 8px;
+  }
+  
+  /* Admonitions */
+  .admonition {
+    padding: 0.75rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* Fix doc page content width on mobile */
+@media screen and (max-width: 996px) {
+  .docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module {
+    padding: 0;
+  }
+  
+  main[class*="docMainContainer"] {
+    padding: 0 0.5rem;
+  }
+}
+
+/* Docs sidebar toggle button */
+@media screen and (max-width: 996px) {
+  .theme-doc-sidebar-menu {
+    padding: 0.5rem;
+  }
+}
