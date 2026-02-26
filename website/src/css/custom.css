@@ -294,16 +294,36 @@ a:hover {
 .button--primary {
   background-color: var(--ifm-color-primary);
   border-color: var(--ifm-color-primary);
+  color: #ffffff !important;
 }
 
 .button--primary:hover {
   background-color: var(--ifm-color-primary-dark);
   border-color: var(--ifm-color-primary-dark);
+  color: #ffffff !important;
 }
 
 .button--secondary {
   background-color: transparent;
-  border: 2px solid currentColor;
+  border: 2px solid rgba(0, 0, 0, 0.7);
+  color: #1a1a1a !important;
+}
+
+.button--secondary:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary) !important;
+}
+
+[data-theme='dark'] .button--secondary {
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  color: #ffffff !important;
+}
+
+[data-theme='dark'] .button--secondary:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary) !important;
 }
 
 /* Dot separator style */
