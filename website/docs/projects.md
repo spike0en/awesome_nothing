@@ -105,10 +105,10 @@ Other interesting projects by the community.
 These require root access (KernelSU or Magisk). Proceed with caution!
 :::
 
-| Module | Description |
-|--------|-------------|
-| [Nothing AI Changer](https://github.com/Martmists-GH/Nothing-AI-Changer) | Replace ChatGPT integration with another app |
-| [Nothing Battery Fix](https://github.com/Farpathan/Nothing-Battery-Fix) | Restore classic battery percentage style |
-| [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing) | System tweaks and enhancements |
-| [NothingXpert](https://github.com/Rares6567/NothingXpert/) | LSPosed module with extra features |
-| [NOS Aura Killer](https://github.com/reindex-ot/NOS_AuraKiller/) | Debloat Aura services on NOS 4.0 |
+| Module | Author | Description |
+|--------|--------|-------------|
+| [Nothing AI Changer](https://github.com/Martmists-GH/Nothing-AI-Changer) | Martmists-GH | Replace ChatGPT integration with another app |
+| [Nothing Battery Fix](https://github.com/Farpathan/Nothing-Battery-Fix) | Farpathan | Restore classic battery percentage style |
+| [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing) | reindex-ot | System tweaks and enhancements |
+| [NothingXpert](https://github.com/Rares6567/NothingXpert/) | Rares6567 | LSPosed module with extra features |
+| [NOS Aura Killer](https://github.com/reindex-ot/NOS_AuraKiller/) | reindex-ot | Debloat Aura services on NOS 4.0 |

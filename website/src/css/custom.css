@@ -141,7 +141,9 @@ table th {
 table td {
   vertical-align: middle;
   padding: 0.75rem 1rem;
-  white-space: nowrap;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
   border-bottom: 1px solid rgba(128, 128, 128, 0.12);
 }
 
