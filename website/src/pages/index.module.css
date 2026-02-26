@@ -14,6 +14,12 @@
   background-size: 40px 40px;
 }
 
+[data-theme='dark'] .heroBanner {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+}
+
 .heroLogo {
   width: 120px;
   height: 120px;
@@ -61,6 +67,7 @@
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
   position: relative;
   overflow: hidden;
+  margin-bottom: 2rem; /* Added margin for gap between cards */
 }
 
 /* Red accent corner */

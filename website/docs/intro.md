@@ -23,6 +23,19 @@ This resource index collects and organizes community-made apps, tools, projects,
 | [Photography](/docs/photography) | GCAM ports and camera presets |
 | [Guides](/docs/guides) | Tutorials and how-to guides |
 
+## Official Socials
+
+* [Nothing Community](https://nothing.community) - Official discussion forums
+* [Nothing GitHub](https://github.com/NothingOSS) - Official open source repositories
+* [Discord](https://discord.com/invite/nothingtech) - Official Discord server
+
+## Community Maintained
+
+* [Nothing Archive](https://github.com/spike0en/nothing_archive) - Archive of stock firmware and boot images
+* [XDA Forums](https://xdaforums.com/c/nothing.12583/) - Development and customization discussion
+* [Reddit](https://www.reddit.com/r/NothingTech) - Subreddit for Nothing technology
+* [Telegram](https://t.me/s/nothing_archive) - Channel for updates and news
+
 ## Support the Project
 
 If this index is helpful, please consider [starring the repository](https://github.com/spike0en/awesome_nothing/stargazers). It helps with discoverability and encourages maintenance.
