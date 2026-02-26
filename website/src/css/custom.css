@@ -61,6 +61,31 @@ body {
 [data-theme='dark'] body {
   background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
 }
+/* GitHub stars badge */
+.header-github-stars {
+  display: flex;
+  align-items: center;
+}
+
+.header-github-stars img {
+  height: 22px;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
+}
+
+.header-github-stars:hover img {
+  opacity: 0.85;
+}
+
+.header-github-stars:hover {
+  text-decoration: none;
+}
+
+/* Sidebar styling */
+.menu__link {
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
 
 /* Typography Overrides */
 h1, h2, h3, h4, h5, h6 {

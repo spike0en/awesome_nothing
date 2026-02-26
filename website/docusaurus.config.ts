@@ -63,6 +63,13 @@ const config: Config = {
         },
         {
           href: 'https://github.com/spike0en/awesome_nothing',
+          position: 'right',
+          className: 'header-github-stars',
+          'aria-label': 'GitHub Stars',
+          html: '<img src="https://img.shields.io/github/stars/spike0en/awesome_nothing?style=flat&logo=github&label=Stars&color=181818&labelColor=0a0a0a" alt="GitHub Stars" />',
+        },
+        {
+          href: 'https://github.com/spike0en/awesome_nothing',
           label: 'GitHub',
           position: 'right',
         },
