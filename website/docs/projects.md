@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Projects
+description: Glyph tools, Matrix toys, root modules, and other community-maintained projects for Nothing devices.
 ---
 
 # Community Projects
@@ -56,7 +57,7 @@ Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) 
 | [HA-Glyph](https://github.com/PzmuV1517/HA-glyph) | pzmuv1517 | Home Assistant entity toggle |
 | [Leveller](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) | RapidZapper | Gyroscopic level tool |
 | [Magic 8 Ball](https://play.google.com/store/apps/details?id=com.frank.magic8ball) | Fr4nKB | Classic Magic 8 Ball |
-| [Pomodoro Timer](http://github.com/PzmuV1517/GlyphPomodoroTimer) | pzmuV1517 | Pomodoro timer toy |
+| [Pomodoro Timer](https://github.com/PzmuV1517/GlyphPomodoroTimer) | pzmuV1517 | Pomodoro timer toy |
 | [GlyphNexus](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) | Experion Labs | Notifications, timers, visualizer |
 | [Timepiece](https://play.google.com/store/apps/details?id=com.arunk140.timepiece) | Arun Khanchandani | Always-On clock utility |
 
@@ -94,7 +95,7 @@ Other interesting projects by the community.
 | [NothingOS Manjaro](https://github.com/HyenaDesign/nothingos-gnome-manjaro) | HyenaDesign | GNOME desktop build |
 | [NotWidgets](https://github.com/GXX0T/NotWidgets) | GXX0T | Rainmeter widgets |
 | [NThing-UI](https://github.com/Runixe786/NThing-UI) | Runixe786 | Rainmeter widgets |
-| [Spin The Bottle](http://dotmatrix-beerbottle.vercel.app/) | MadGlacierRunner | Spin the bottle simulator |
+| [Spin The Bottle](https://dotmatrix-beerbottle.vercel.app/) | MadGlacierRunner | Spin the bottle simulator |
 | [Wallpaper Studio Pro](https://wallpaperstudiopro.netlify.app/) | Ifham9 | AI wallpaper generator |
 
 ---

@@ -6,8 +6,8 @@
 }
 
 .heroLogo {
-  width: 96px;
-  height: 96px;
+  width: 120px;
+  height: 120px;
   margin-bottom: 1.5rem;
 }
 
@@ -40,6 +40,11 @@
 .featureCard:hover {
   border-color: var(--ifm-color-primary);
   transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] .featureCard:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
 }
 
 .featureCard h3 {
@@ -90,45 +95,45 @@
   }
 
   .heroLogo {
-    width: 72px;
-    height: 72px;
+    width: 96px;
+    height: 96px;
   }
 
   .buttons {
     flex-direction: column;
   }
-  
+
   .features {
     padding: 2rem 0;
   }
-  
+
   .featureCard {
     padding: 1.25rem;
     border-radius: 10px;
     margin-bottom: 1rem;
   }
-  
+
   .featureCard h3 {
     font-size: 1.1rem;
   }
-  
+
   .featureCard p {
     font-size: 0.9rem;
   }
-  
+
   .socials {
     padding: 2.5rem 0;
   }
-  
+
   .socialsTitle {
     font-size: 1.25rem;
     margin-bottom: 1.5rem;
   }
-  
+
   .socialLinks {
     gap: 0.75rem;
   }
-  
+
   .socialLinks a {
     padding: 0.6rem 1rem;
     font-size: 0.9rem;
@@ -141,8 +146,8 @@
   }
 
   .heroLogo {
-    width: 64px;
-    height: 64px;
+    width: 80px;
+    height: 80px;
     margin-bottom: 1rem;
   }
 
@@ -150,37 +155,37 @@
     width: 100%;
     padding: 0 1rem;
   }
-  
-  .buttons > * {
+
+  .buttons>* {
     width: 100%;
     text-align: center;
   }
-  
+
   .features {
     padding: 1.5rem 0;
   }
-  
+
   .featureCard {
     padding: 1rem;
     border-radius: 8px;
   }
-  
+
   .featureCard h3 {
     font-size: 1rem;
   }
-  
+
   .featureCard p {
     font-size: 0.85rem;
   }
-  
+
   .socials {
     padding: 2rem 0;
   }
-  
+
   .socialsTitle {
     font-size: 1.1rem;
   }
-  
+
   .socialLinks a {
     padding: 0.5rem 0.85rem;
     font-size: 0.85rem;

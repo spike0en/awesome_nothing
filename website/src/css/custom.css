@@ -13,16 +13,16 @@
   --ifm-color-primary-light: #e32a32;
   --ifm-color-primary-lighter: #e53940;
   --ifm-color-primary-lightest: #ea5b61;
-  
+
   --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --ifm-font-family-monospace: 'JetBrains Mono', monospace;
   --ifm-code-font-size: 90%;
   --ifm-heading-font-weight: 600;
-  
+
   --ifm-background-color: #ffffff;
   --ifm-navbar-background-color: #ffffff;
-  --ifm-footer-background-color: #1a1a1a;
-  
+  --ifm-footer-background-color: #f8f8f8;
+
   --docusaurus-highlighted-code-line-bg: rgba(215, 25, 33, 0.1);
 }
 
@@ -34,12 +34,12 @@
   --ifm-color-primary-light: #ff5757;
   --ifm-color-primary-lighter: #ff6565;
   --ifm-color-primary-lightest: #ff8989;
-  
+
   --ifm-background-color: #0a0a0a;
   --ifm-navbar-background-color: #0a0a0a;
-  --ifm-footer-background-color: #000000;
+  --ifm-footer-background-color: #0d0d0d;
   --ifm-card-background-color: #141414;
-  
+
   --docusaurus-highlighted-code-line-bg: rgba(255, 59, 59, 0.15);
 }
 
@@ -54,7 +54,7 @@
 }
 
 .navbar__logo {
-  height: 28px;
+  height: 34px;
 }
 
 /* GitHub stars badge */
@@ -195,22 +195,23 @@ table tbody tr:hover {
 
 /* Mobile: Make parent scrollable, not the table */
 @media screen and (max-width: 996px) {
+
   .markdown,
   .theme-doc-markdown {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
-  
+
   table {
     font-size: 0.85rem;
     min-width: 600px;
   }
-  
+
   table th,
   table td {
     padding: 0.6rem 0.75rem;
   }
-  
+
   table th {
     font-size: 0.7rem;
   }
@@ -221,12 +222,12 @@ table tbody tr:hover {
     font-size: 0.8rem;
     min-width: 500px;
   }
-  
+
   table th,
   table td {
     padding: 0.5rem 0.65rem;
   }
-  
+
   table th {
     font-size: 0.65rem;
   }
@@ -264,6 +265,23 @@ code {
   border-radius: 4px;
 }
 
+/* Navbar Badges */
+.header-badge {
+  display: flex;
+  align-items: center;
+  padding: 0 0.5rem;
+  transition: opacity 0.2s ease;
+}
+
+.header-badge:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.header-badge img {
+  height: 20px;
+}
+
 /* Links */
 a {
   text-decoration: none;
@@ -275,7 +293,22 @@ a:hover {
 
 /* Footer */
 .footer {
-  border-top: 1px solid rgba(128, 128, 128, 0.2);
+  border-top: 2px solid var(--ifm-color-primary);
+  padding: 0.5rem 0;
+  background: linear-gradient(180deg, #f8f8f8 0%, #ffffff 100%);
+  color: #222222;
+}
+
+.footer__copyright {
+  margin-bottom: 0;
+  opacity: 1;
+  color: inherit;
+  font-weight: 500;
+}
+
+[data-theme='dark'] .footer {
+  background: linear-gradient(180deg, #1a0505 0%, #0a0a0a 100%);
+  color: #ffffff;
 }
 
 .footer__title {
@@ -283,6 +316,7 @@ a:hover {
   text-transform: uppercase;
   font-size: 0.75rem;
   letter-spacing: 0.1em;
+  color: inherit;
 }
 
 /* Hero section */
@@ -401,23 +435,23 @@ a:hover {
   .hero__title {
     font-size: 2.25rem;
   }
-  
+
   .hero__subtitle {
     font-size: 1.1rem;
   }
-  
+
   article h1 {
     font-size: 1.75rem;
   }
-  
+
   article h2 {
     font-size: 1.4rem;
   }
-  
+
   article h3 {
     font-size: 1.15rem;
   }
-  
+
   .footer__links {
     flex-direction: column;
     gap: 2rem;
@@ -428,68 +462,68 @@ a:hover {
   .hero__title {
     font-size: 1.85rem;
   }
-  
+
   .hero__subtitle {
     font-size: 1rem;
     padding: 0 1rem;
   }
-  
+
   article h1 {
     font-size: 1.5rem;
   }
-  
+
   article h2 {
     font-size: 1.25rem;
     margin-top: 2rem;
   }
-  
+
   article h3 {
     font-size: 1.1rem;
   }
-  
+
   /* Better content padding on mobile */
   .markdown {
     padding: 0;
   }
-  
-  .markdown > * {
+
+  .markdown>* {
     overflow-wrap: break-word;
     word-wrap: break-word;
   }
-  
+
   /* Navbar adjustments */
   .navbar__title {
     font-size: 0.95rem;
   }
-  
+
   .navbar__logo {
-    height: 24px;
+    height: 30px;
   }
-  
+
   /* Footer mobile */
   .footer {
-    padding: 2rem 1rem;
+    padding: 0.5rem 1rem;
   }
-  
+
   .footer__title {
     font-size: 0.7rem;
   }
-  
+
   .footer__item {
     font-size: 0.85rem;
   }
-  
+
   /* Button sizing */
   .button--lg {
     padding: 0.75rem 1.25rem;
     font-size: 0.9rem;
   }
-  
+
   /* Cards on mobile */
   .card {
     border-radius: 8px;
   }
-  
+
   /* Admonitions */
   .admonition {
     padding: 0.75rem;
@@ -499,10 +533,6 @@ a:hover {
 
 /* Fix doc page content width on mobile */
 @media screen and (max-width: 996px) {
-  .docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module {
-    padding: 0;
-  }
-  
   main[class*="docMainContainer"] {
     padding: 0 0.5rem;
   }

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Official Resources
+description: Official Nothing OEM apps, wallpapers, fonts, kernel sources, developer SDKs, and support links.
 ---
 
 # Official OEM Resources
@@ -97,7 +98,7 @@ Software toolkit for creating custom Glyph experiences.
 | GlyphMatrix Developer Kit | [GitHub](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit) |
 | BetterGDK (Unofficial) | [GitHub](https://github.com/Fr4nKB/BetterGDK) |
 | Flutter Plugin (Unofficial) | [pub.dev](https://pub.dev/packages/nothing_glyph_interface) |
-| Unity SDK (Unofficial) | [GitHub](http://github.com/am1goo/NothingOS.Unity) |
+| Unity SDK (Unofficial) | [GitHub](https://github.com/am1goo/NothingOS.Unity) |
 
 ---
 
@@ -129,13 +130,13 @@ Official `.glb` files for device models.
 
 | Resource | Link |
 |----------|------|
-| Business Enquiry | [nothing.tech](http://nothing.tech/pages/business-enquiry) |
-| Careers | [careers.nothing.tech](http://careers.nothing.tech/) |
-| CMF Support (X) | [@cmf_support](http://cmf_support/) |
-| Customer Support | [nothing.tech](http://nothing.tech/pages/support-centre) |
+| Business Enquiry | [nothing.tech](https://nothing.tech/pages/business-enquiry) |
+| Careers | [careers.nothing.tech](https://careers.nothing.tech/) |
+| CMF Support (X) | [@cmf_support](https://x.com/cmf_support) |
+| Customer Support | [nothing.tech](https://nothing.tech/pages/support-centre) |
 | FAQ | [support.nothing.tech](https://support.nothing.tech/hc/en-us/categories/38487703211153-FAQ) |
-| Nothing Support (X) | [@nothingsupport](http://nothingsupport/) |
-| Product Guide | [nothing.tech](http://nothing.tech/pages/support-product-help) |
+| Nothing Support (X) | [@nothingsupport](https://x.com/nothingsupport) |
+| Product Guide | [nothing.tech](https://nothing.tech/pages/support-product-help) |
 | Product Status | [nothing.tech/imei](https://nothing.tech/pages/imei) |
-| Service Centre | [nothing.tech](http://nothing.tech/pages/service-center) |
+| Service Centre | [nothing.tech](https://nothing.tech/pages/service-center) |
 | Troubleshooting | [support.nothing.tech](https://support.nothing.tech/hc/en-us/categories/7455115681041-Troubleshooting) |

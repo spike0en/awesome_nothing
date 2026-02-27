@@ -3,14 +3,6 @@ website/node_modules/
 
 # Build output
 website/build/
+
+# Docusaurus local cache
 website/.docusaurus/
-
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db

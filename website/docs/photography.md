@@ -1,38 +1,12 @@
 ---
 sidebar_position: 6
 title: Photography
+description: GCAM ports, camera configs, stock presets, and audio EQ profiles for Nothing devices.
 ---
 
 # Photography Resources
 
 GCAM ports, configs, and camera presets for Nothing devices.
-
-## Drivers & Debugging
-
-### USB Drivers
-
-Essential drivers for USB file transfers and device recognition.
-
-- [Google USB Drivers for Windows](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
-- Installation guides: [USB](https://droidwin.com/android-usb-drivers) | [Fastboot](https://droidwin.com/how-to-install-fastboot-drivers-in-windows-11/)
-
-### Platform Tools (ADB & Fastboot)
-
-Download Android SDK Platform-Tools:
-- [Windows / Linux / macOS](https://developer.android.com/studio/releases/platform-tools)
-- [Installation Guide](https://www.xda-developers.com/install-adb-windows-macos-linux/)
-
-**Windows (winget):**
-```cmd
-winget install --id=Google.PlatformTools -e
-```
-
-**macOS/Linux (Homebrew):**
-```bash
-brew install --cask android-platform-tools
-```
-
----
 
 ## Google Camera Ports
 

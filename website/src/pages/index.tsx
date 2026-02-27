@@ -5,9 +5,10 @@ import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+import { JSX } from 'react';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
@@ -19,12 +20,6 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link className="button button--primary button--lg" to="/docs/intro">
             Explore Resources
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            href="https://github.com/spike0en/awesome_nothing"
-          >
-            GitHub
           </Link>
         </div>
       </div>
@@ -71,7 +66,7 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, description, link}: FeatureItem) {
+function Feature({ title, description, link }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <Link to={link} className={styles.featureLink}>
@@ -106,8 +101,11 @@ function HomepageSocials() {
           Connect with the Community
         </Heading>
         <div className={styles.socialLinks}>
+          <a href="https://t.me/s/Nothing_Archive" target="_blank" rel="noopener noreferrer">
+            Telegram
+          </a>
           <a href="https://nothing.community" target="_blank" rel="noopener noreferrer">
-            Nothing Community
+            Community Website
           </a>
           <a href="https://discord.com/invite/nothingtech" target="_blank" rel="noopener noreferrer">
             Discord
@@ -118,9 +116,18 @@ function HomepageSocials() {
           <a href="https://xdaforums.com/c/nothing.12583/" target="_blank" rel="noopener noreferrer">
             XDA Forums
           </a>
-          <a href="https://t.me/s/nothing_archive" target="_blank" rel="noopener noreferrer">
-            Telegram
+          <a href="https://www.youtube.com/@NothingTechnology" target="_blank" rel="noopener noreferrer">
+            Youtube
           </a>
+          <a href="https://x.com/nothing" target="_blank" rel="noopener noreferrer">
+            X (Twitter)
+          </a>
+          <a href="https://instagram.com/nothing" target="_blank" rel="noopener noreferrer">
+            Instagram
+          </a>
+          <a href="https://github.com/NothingOSS" target="_blank" rel="noopener noreferrer">
+            NothingOSS (Github)
+          </a>		  
         </div>
       </div>
     </section>
@@ -128,10 +135,10 @@ function HomepageSocials() {
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={siteConfig.title}
+      title="Home"
       description={siteConfig.tagline}
     >
       <HomepageHeader />

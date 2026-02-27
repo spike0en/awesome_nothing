@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Devices
+description: Complete catalog of Nothing & CMF phones, earbuds, watches, and accessories with model numbers, codenames, and release dates.
 ---
 
 # Device Catalog

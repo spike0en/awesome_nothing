@@ -1,11 +1,41 @@
 ---
 sidebar_position: 7
 title: Guides
+description: Step-by-step guides for bootloader unlocking, rooting, OTA updates, and Nothing device customization.
 ---
 
 # How-to Guides
 
 Step-by-step guides for Nothing device owners.
+
+## Prerequisites & Tools
+
+Essential tools for advanced guides below.
+
+### USB Drivers
+
+Essential drivers for USB file transfers and device recognition.
+
+- [Google USB Drivers for Windows](https://dl.google.com/android/repository/usb_driver_r13-windows.zip)
+- Installation guides: [USB](https://droidwin.com/android-usb-drivers) | [Fastboot](https://droidwin.com/how-to-install-fastboot-drivers-in-windows-11/)
+
+### Platform Tools (ADB & Fastboot)
+
+Download Android SDK Platform-Tools:
+- [Windows / Linux / macOS](https://developer.android.com/studio/releases/platform-tools)
+- [Installation Guide](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+
+**Windows (winget):**
+```cmd
+winget install --id=Google.PlatformTools -e
+```
+
+**macOS/Linux (Homebrew):**
+```bash
+brew install --cask android-platform-tools
+```
+
+---
 
 ## General Guides
 

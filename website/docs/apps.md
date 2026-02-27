@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Community Apps
+description: Community-built apps for Nothing phones — Glyph-powered, productivity, utilities, and more.
 ---
 
 # Community Apps
@@ -67,7 +68,7 @@ Apps that integrate with the Glyph interface on Nothing phones.
 | [Calories Are Nothing](https://play.google.com/store/apps/details?id=can.wearemobilefirst.com) | WeAreMobileFirst | Meal logging app |
 | [CMF Custom Volume Controller](https://github.com/alirezafarghadani999/CMF_CustomVolumeControl) | AlirezaFarghadani | Custom volume controller for CMF |
 | [Compass](https://github.com/Earendel-lab/Compass) | Earendel | Simple compass |
-| [Currency](http://curency.pages.dev/) | Earendel | Currency converter web app |
+| [Currency](https://curency.pages.dev/) | Earendel | Currency converter web app |
 | [Elements Widgets](https://play.google.com/store/apps/details?id=com.hearthborn.studios.elements) | Hearthborn | Minimal widgets |
 | [Gamething](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) | Lev Matuzin | Dino game inspired |
 | [GeoTorch](https://github.com/georgenelson576/GeoTorch/) | georgenelson576 | Flashlight app with widgets |
@@ -108,7 +109,7 @@ Apps that integrate with the Glyph interface on Nothing phones.
 |-----|-----------|-------------|
 | [365-Days](https://github.com/dipin-bot/365-Days) | dipin-bot | Live wallpaper countdown |
 | [Dot Battery](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) | RapidZapper | Battery level wallpaper |
-| [Flow](http://flowpo.pages.dev/) | Earendel-lab | Pomodoro timer web app |
+| [Flow](https://flowpo.pages.dev/) | Earendel-lab | Pomodoro timer web app |
 | [Lentlay](https://lentlay.framer.website/) | Omkar Mangalekar | Lenticular effect for images |
 | [MissingCore Music](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) | MissingCore | Offline music player |
 | [Noid](https://play.google.com/store/apps/details?id=com.techsip.noid) | TechSip Studios | File management |

@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -17,8 +17,8 @@ const config: Config = {
   organizationName: 'spike0en',
   projectName: 'awesome_nothing',
 
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
 
   i18n: {
     defaultLocale: 'en',
@@ -39,6 +39,16 @@ const config: Config = {
         },
       } satisfies Preset.Options,
     ],
+  ],
+
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'keywords',
+        content: 'Nothing Phone, Nothing OS, CMF by Nothing, Glyph, Nothing community, Nothing apps, awesome list',
+      },
+    },
   ],
 
   themeConfig: {
@@ -64,51 +74,29 @@ const config: Config = {
         {
           href: 'https://github.com/spike0en/awesome_nothing',
           position: 'right',
-          className: 'header-github-stars',
+          className: 'header-badge header-github-hits',
+          'aria-label': 'GitHub Hits',
+          html: `<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fawesome_nothing&label=Hits&icon=github&color=%2324292e&labelColor=333333" alt="GitHub Hits" />`,
+        },
+        {
+          href: 'https://github.com/spike0en/awesome_nothing/stargazers',
+          position: 'right',
+          className: 'header-badge header-github-stars',
           'aria-label': 'GitHub Stars',
-          html: '<img src="https://img.shields.io/github/stars/spike0en/awesome_nothing?style=flat&logo=github&label=Stars&color=181818&labelColor=0a0a0a" alt="GitHub Stars" />',
+          html: `<img src="https://img.shields.io/github/stars/spike0en/awesome_nothing?logo=github&color=24292e" alt="GitHub Stars" />`,
         },
         {
           href: 'https://github.com/spike0en/awesome_nothing',
           label: 'GitHub',
           position: 'right',
         },
-        {
-          href: 'https://nothing.community',
-          label: 'Community',
-          position: 'right',
-        },
+
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Explore',
-          items: [
-            {label: 'Devices', to: '/docs/devices'},
-            {label: 'Apps', to: '/docs/apps'},
-            {label: 'Projects', to: '/docs/projects'},
-          ],
-        },
-        {
-          title: 'Official',
-          items: [
-            {label: 'Nothing Community', href: 'https://nothing.community'},
-            {label: 'Nothing GitHub', href: 'https://github.com/NothingOSS'},
-            {label: 'Discord', href: 'https://discord.com/invite/nothingtech'},
-          ],
-        },
-        {
-          title: 'Resources',
-          items: [
-            {label: 'Nothing Archive', href: 'https://github.com/spike0en/nothing_archive'},
-            {label: 'XDA Forums', href: 'https://xdaforums.com/c/nothing.12583/'},
-            {label: 'Reddit', href: 'https://www.reddit.com/r/NothingTech'},
-          ],
-        },
-      ],
-      copyright: `CC0 1.0 Universal · Built with Docusaurus`,
+      links: [],
+      copyright: `Crafted with ❤️ by Spike & Shiki for the Nothing Community.`,
     },
     prism: {
       theme: prismThemes.github,
