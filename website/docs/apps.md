@@ -109,7 +109,7 @@ Apps that integrate with the Glyph interface on Nothing phones.
 |-----|-----------|-------------|
 | [365-Days](https://github.com/dipin-bot/365-Days) | dipin-bot | Live wallpaper countdown |
 | [Dot Battery](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) | RapidZapper | Battery level wallpaper |
-| [Flow](https://flowpo.pages.dev/) | Earendel-lab | Pomodoro timer web app |
+| [Flow](https://flowpo.pages.dev/) | Earendel | Pomodoro timer web app |
 | [Lentlay](https://lentlay.framer.website/) | Omkar Mangalekar | Lenticular effect for images |
 | [MissingCore Music](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) | MissingCore | Offline music player |
 | [Noid](https://play.google.com/store/apps/details?id=com.techsip.noid) | TechSip Studios | File management |
