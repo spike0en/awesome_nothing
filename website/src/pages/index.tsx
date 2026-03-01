@@ -11,16 +11,19 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero', styles.heroBanner)}>
+      <div className={styles.glyphGrid} aria-hidden="true" />
       <div className="container">
-        <img src="img/logo.png" alt="Awesome Nothing" className={styles.heroLogo} />
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link className="button button--primary button--lg" to="/docs/intro">
-            Explore Resources
-          </Link>
+        <div className={styles.heroContent}>
+          <img src="img/logo.png" alt="Awesome Nothing" className={styles.heroLogo} />
+          <Heading as="h1" className={styles.heroTitle}>
+            {siteConfig.title}
+          </Heading>
+          <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+          <div className={styles.buttons}>
+            <Link className={clsx('button', styles.ctaButton)} to="/docs/intro">
+              Explore Resources
+            </Link>
+          </div>
         </div>
       </div>
     </header>
@@ -68,11 +71,12 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({ title, description, link }: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--4', styles.featureCol)}>
       <Link to={link} className={styles.featureLink}>
         <div className={styles.featureCard}>
-          <Heading as="h3">{title}</Heading>
-          <p>{description}</p>
+          <span className={styles.featureDot} />
+          <Heading as="h3" className={styles.featureTitle}>{title}</Heading>
+          <p className={styles.featureDesc}>{description}</p>
         </div>
       </Link>
     </div>
@@ -83,7 +87,8 @@ function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <Heading as="h2" className={styles.sectionLabel}>Resources</Heading>
+        <div className={clsx('row', styles.featureRow)}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
@@ -94,40 +99,27 @@ function HomepageFeatures() {
 }
 
 function HomepageSocials() {
+  const links = [
+    { label: 'Telegram', href: 'https://t.me/s/Nothing_Archive' },
+    { label: 'Community', href: 'https://nothing.community' },
+    { label: 'Discord', href: 'https://discord.com/invite/nothingtech' },
+    { label: 'Reddit', href: 'https://www.reddit.com/r/NothingTech' },
+    { label: 'XDA', href: 'https://xdaforums.com/c/nothing.12583/' },
+    { label: 'YouTube', href: 'https://www.youtube.com/@NothingTechnology' },
+    { label: 'X', href: 'https://x.com/nothing' },
+    { label: 'Instagram', href: 'https://instagram.com/nothing' },
+    { label: 'NothingOSS', href: 'https://github.com/NothingOSS' },
+  ];
   return (
     <section className={styles.socials}>
       <div className="container">
-        <Heading as="h2" className={styles.socialsTitle}>
-          Connect with the Community
-        </Heading>
+        <Heading as="h2" className={styles.sectionLabel}>Connect</Heading>
         <div className={styles.socialLinks}>
-          <a href="https://t.me/s/Nothing_Archive" target="_blank" rel="noopener noreferrer">
-            Telegram
-          </a>
-          <a href="https://nothing.community" target="_blank" rel="noopener noreferrer">
-            Community Website
-          </a>
-          <a href="https://discord.com/invite/nothingtech" target="_blank" rel="noopener noreferrer">
-            Discord
-          </a>
-          <a href="https://www.reddit.com/r/NothingTech" target="_blank" rel="noopener noreferrer">
-            Reddit
-          </a>
-          <a href="https://xdaforums.com/c/nothing.12583/" target="_blank" rel="noopener noreferrer">
-            XDA Forums
-          </a>
-          <a href="https://www.youtube.com/@NothingTechnology" target="_blank" rel="noopener noreferrer">
-            Youtube
-          </a>
-          <a href="https://x.com/nothing" target="_blank" rel="noopener noreferrer">
-            X (Twitter)
-          </a>
-          <a href="https://instagram.com/nothing" target="_blank" rel="noopener noreferrer">
-            Instagram
-          </a>
-          <a href="https://github.com/NothingOSS" target="_blank" rel="noopener noreferrer">
-            NothingOSS (Github)
-          </a>		  
+          {links.map(({ label, href }) => (
+            <a key={label} href={href} target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+              {label}
+            </a>
+          ))}
         </div>
       </div>
     </section>
@@ -142,7 +134,7 @@ export default function Home(): JSX.Element {
       description={siteConfig.tagline}
     >
       <HomepageHeader />
-      <main>
+      <main className={styles.main}>
         <HomepageFeatures />
         <HomepageSocials />
       </main>
