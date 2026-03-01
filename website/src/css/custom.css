@@ -107,6 +107,34 @@
   height: 20px;
 }
 
+/* Show Stars & GitHub in navbar on mobile (Nothing Phone , etc.) - override Infima hide */
+@media (max-width: 996px) {
+  .navbar__items--right {
+    display: flex !important;
+    gap: 0.25rem;
+  }
+
+  .navbar__items--right .navbar__item {
+    display: inline-flex !important;
+    align-items: center;
+    padding: 0.35rem 0.5rem;
+  }
+
+  .navbar__items--right .header-badge img {
+    height: 18px;
+  }
+
+  /* Hide Hits badge on mobile to prioritize Stars & GitHub */
+  .navbar__items--right .header-github-hits {
+    display: none !important;
+  }
+
+  /* Compact GitHub text link on mobile */
+  .navbar__items--right .navbar__link:not(.header-badge) {
+    font-size: 0.85rem;
+  }
+}
+
 /* GitHub stars badge */
 .header-github-stars {
   display: flex;
