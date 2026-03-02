@@ -27,42 +27,6 @@ A collection of tools for creating custom Glyph tones and compositions.
 
 ---
 
-## Glyph Matrix Toys
-
-Interactive toys and games for the Phone (3) Glyph Matrix.
-
-:::note
-Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) for official toys.
-:::
-
-| Project | Developer | Description |
-|---------|-----------|-------------|
-| [Aeroglyph Weather](https://github.com/poorneshadhithya/Aeroglyph-Weather) | poorneshadhithya | Retro-futuristic weather station |
-| [BetterBattery](https://github.com/PzmuV1517/BetterBatery) | pzmuV1517 | Advanced battery visualization |
-| [BetterClock](https://github.com/Snakehater/betterclock) | Snakehater | Multifunctional display |
-| [Counter](https://nothing.community/d/36837-introducing-counter-a-glyph-toy) | Daniel | Counter ranging 0-9999 |
-| [Dot Hub](https://play.google.com/store/apps/details?id=com.gesekus.dothub) | nostream | Visualizer, compass, dice, counter |
-| [Glyph Anki](https://github.com/R0uli078/GlyphAnki) | R0uli078 | Anki flashcard integration |
-| [Glyph Beat](https://play.google.com/store/apps/details?id=com.pauwma.glyphbeat) | pauwma | Media visualizer with themes |
-| [Glyph Bike](https://play.google.com/store/apps/details?id=com.ofishialdigital.glyphbike) | Ofishial Digital | Scrolling motorcycle game |
-| [Glyph Catch](https://github.com/equalparts/glyph-catch) | equalparts | Pokémon collecting fan-game |
-| [Glyph Marquee](https://github.com/bluehomewu/GlyphMarquee) | bluehomewu | Scrolling text messages |
-| [Glyph Matrix Simulator](http://glyph.andreibanu.com/) | pzmuV1517 | Web-based code testing |
-| [Glyph Museum](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) | pauwma | Create and showcase Glyph art |
-| [Glyph Toybox](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) | Singularity Design | Coin flip, ringer mode, battery flow |
-| [GlyphCade](https://github.com/bleelblep/GlyphCade/) | bleelblep | Arcade games on Glyph Matrix |
-| [Glypheyes](https://github.com/yuk1-kondo/GlyphToys-Glypheyes) | yuk1-kondo | Playful tilting pupil toy |
-| [Glyphify (Toys)](https://play.google.com/store/apps/details?id=com.frank.glyphify) | Fr4nKB | Ball maze, quick dial, Tamagotchi |
-| [Hamon](https://github.com/yuk1-kondo/GlyphToys-hamon) | yuk1-kondo | Physical wave propagation |
-| [HA-Glyph](https://github.com/PzmuV1517/HA-glyph) | pzmuv1517 | Home Assistant entity toggle |
-| [Leveller](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) | RapidZapper | Gyroscopic level tool |
-| [Magic 8 Ball](https://play.google.com/store/apps/details?id=com.frank.magic8ball) | Fr4nKB | Classic Magic 8 Ball |
-| [Pomodoro Timer](https://github.com/PzmuV1517/GlyphPomodoroTimer) | pzmuV1517 | Pomodoro timer toy |
-| [GlyphNexus](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) | Experion Labs | Notifications, timers, visualizer |
-| [Timepiece](https://play.google.com/store/apps/details?id=com.arunk140.timepiece) | Arun Khanchandani | Always-On clock utility |
-
----
-
 ## Miscellaneous Projects
 
 Other interesting projects by the community.
