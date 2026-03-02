@@ -23,4 +23,4 @@ If this index is helpful, please consider [starring the repository](https://gith
 
 - [Adbo](https://discord.com/users/168006441318350848) and [Siemens NX](https://discord.com/users/150299184426123273) for their noteworthy contributions to the index.
 - [Shiki](https://github.com/guptavishal-xm1) for all help with crafting the website for the repo.
-- All the **creators, project maintainers, and community members** working behind the scenes on various Nothing-related projects. Their efforts, whether direct or indirect, have helped make this project possible. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="30" height="30" />
+- All the **creators, project maintainers, and community members** working behind the scenes on various Nothing-related projects. Their efforts, whether direct or indirect, have helped make this project possible.
