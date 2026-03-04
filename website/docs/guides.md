@@ -70,7 +70,7 @@ Guides for remapping the Essential Key on Phone (3):
 
 Dialer codes (USSD) that you can dial to access hidden menus and diagnostics.
 
-| Code | Description | Warning |
+| Code | Function | Warning |
 |------|-------------|---------|
 | `*#06#` | Shows IMEI and Serial Number | Safe |
 | `*#07#` | Displays SAR levels and regulatory info | Safe |
